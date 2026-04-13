@@ -69,20 +69,20 @@ print(df.head())
 | food.management     | premium   | $85.80    | $85.80        | 94             | 44     | 4      | namecheap         |
 | snap.management     | available | $14.99    | $33.99        | 90             | 46     | 4      | name.com          |
 | prime.management    | resell    | —         | —             | 76             | 82     | 5      | Dynadot Inc       |
-| order.management    | premium   | $82.50    | $82.50        | 78             | 41     | 5      | name.com          |
+| order.management    | premium   | $82.50    | $82.50        | 78             | 40     | 5      | name.com          |
 | nice.management     | available | $14.99    | $33.99        | 86             | 44     | 4      | name.com          |
 | wise.management     | resell    | —         | —             | 98             | 72     | 4      | Spaceship, Inc.   |
 | research.management | premium   | $85.80    | $85.80        | 92             | 39     | 8      | namecheap         |
 | aaa.management      | available | $14.99    | —             | 70             | 42     | 3      | name.com          |
 | easy.management     | resell    | —         | —             | 128            | 68     | 4      | NameCheap, Inc.   |
 | dynamic.management  | premium   | $123.75   | $123.75       | 94             | 34     | 7      | name.com          |
-| mark.management     | available | $14.99    | $33.99        | 66             | 42     | 4      | name.com          |
+| craft.management    | available | $14.99    | $33.99        | 70             | 42     | 5      | name.com          |
 | identity.management | resell    | —         | —             | 80             | 65     | 8      | Spaceship, Inc.   |
 | choice.management   | premium   | $14.99    | $33.99        | 74             | 31     | 6      | name.com          |
 | quick.management    | available | $14.99    | $33.99        | 72             | 41     | 5      | name.com          |
 | industry.management | resell    | —         | —             | 68             | 61     | 8      | Sav.com, LLC - 11 |
 | show.management     | premium   | $128.70   | $128.70       | 72             | 31     | 4      | namecheap         |
-| craft.management    | available | $14.99    | $33.99        | 70             | 41     | 5      | name.com          |
+| mark.management     | available | $14.99    | $33.99        | 66             | 41     | 4      | name.com          |
 | pay.management      | resell    | —         | —             | 84             | 60     | 3      | Porkbun LLC       |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
