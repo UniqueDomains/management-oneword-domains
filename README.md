@@ -14,9 +14,9 @@ Daily-updated public extract of available and resale .management one-word domain
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **11,706 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 11,706 domains
+**Public extract:** 1,000 rows · **Live catalog:** 11,706 domains · **Median ask:** $17.20 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-01  
+**Last updated:** 2026-05-06  
 **Canonical page:** `https://unique.domains/domains/tld/management`  
 **Best for:** founders, investors, studios
 
@@ -77,7 +77,7 @@ print(df.head())
 | letsgo.management       | available | $14.99    | —             | 57             | 31     | 7      | name.com    |
 | fund.management         | resell    | —         | —             | 78             | 31     | 4      | Porkbun LLC |
 | inspiration.management  | available | $14.99    | —             | 88             | 30     | 11     | name.com    |
-| clinic.management       | resell    | —         | —             | 70             | 21     | 6      | Porkbun LLC |
+| clinic.management       | resell    | —         | —             | 70             | 20     | 6      | Porkbun LLC |
 | heroes.management       | available | $14.99    | —             | 68             | 29     | 6      | name.com    |
 | dogs.management         | available | $14.99    | —             | 76             | 28     | 4      | name.com    |
 | commonground.management | available | $14.99    | —             | 74             | 28     | 13     | name.com    |
@@ -91,13 +91,13 @@ These rows are selected to show a more legible mix of visible asks, resale conte
 
 You are seeing the public sample. Unique Domains keeps the exact search context and adds saved workflows, deeper filters, and alerting.
 
-| GitHub extract          | Unique Domains                                   |
-| ----------------------- | ------------------------------------------------ |
-| 1,000-row public sample | 11,706 live domains                              |
-| Static CSV / JSON       | live search and daily refresh                    |
-| Basic exported fields   | deeper price, demand, risk, and workflow context |
-| No persistence          | Radar, saved search, and alerts                  |
-| No founder workflow     | Project, shortlist, and next-step workflow       |
+| GitHub extract          | Unique Domains                             |
+| ----------------------- | ------------------------------------------ |
+| 1,000-row public sample | 11,706 live domains                        |
+| Static CSV / JSON       | live search and daily refresh              |
+| Basic exported fields   | 0 high-demand names under $2,500           |
+| No persistence          | Radar, saved search, and alerts            |
+| No founder workflow     | Project, shortlist, and next-step workflow |
 
 If this sample already feels useful, Unique Domains is where the exact search becomes a workflow.
 
@@ -120,13 +120,12 @@ See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This repository follows the exact public search represented by the canonical page above.
+This selection is entirely made up of one-word .management domains. That makes the decision less about extension choice and more about word quality. Strong picks tend to be clear, easy to say, and closely tied to a management use case, team, or service. Names like careful.management and match.management read differently from abstract options like xiv.management or emotional terms like crying.management. When comparing these domains, check whether the word adds authority, feels commercially usable, and stays memorable when paired with .management. The median ask is 17.2, so price discipline matters less than choosing a word that can carry the niche extension without confusion.
 
-- This repository is a public extract, not the full live catalog.
-- Counts, prices, and statuses can change over time.
-- Scores are decision-support signals, not guarantees of resale value.
-- Trademark, SEO, and risk signals should be treated as screening inputs, not legal or specialist advice.
-- Unique Domains contains deeper filters, monitoring, and decision workflows than this public extract.
+- All names in this selection use the .management TLD
+- 11,706 one-word domains in a single niche extension
+- Median ask is 17.2 across this set
+- Favor clear words that fit management use cases
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -143,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .MANAGEMENT One-Word Domains*. Version 2026-05-01. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .MANAGEMENT One-Word Domains*. Version 2026-05-06. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
