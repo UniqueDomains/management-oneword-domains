@@ -73,9 +73,9 @@ print(df.head())
 | Cats.management         | available | $34.98    | —             | 59             | 33     | 4      | namecheap   |
 | ideas.management        | resell    | —         | —             | 62             | 37     | 5      | Porkbun LLC |
 | trends.management       | available | $14.99    | —             | 60             | 32     | 6      | name.com    |
-| leaf.management         | resell    | —         | —             | 82             | 33     | 4      | Dynadot Inc |
+| leaf.management         | resell    | —         | —             | 82             | 32     | 4      | Dynadot Inc |
 | letsgo.management       | available | $14.99    | —             | 57             | 31     | 7      | name.com    |
-| fund.management         | resell    | —         | —             | 78             | 31     | 4      | Porkbun LLC |
+| fund.management         | resell    | —         | —             | 78             | 30     | 4      | Porkbun LLC |
 | inspiration.management  | available | $14.99    | —             | 88             | 30     | 11     | name.com    |
 | clinic.management       | resell    | —         | —             | 70             | 20     | 6      | Porkbun LLC |
 | heroes.management       | available | $14.99    | —             | 68             | 29     | 6      | name.com    |

@@ -229,7 +229,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 149b2b77-0e8d-42fb-9746-8ec03126bbd2,puts.management,available,14.99,,58,7,4,name.com,,
 14aa18f6-c6ae-46c4-be42-4cf0349642a5,replaces.management,available,14.99,,55,3,8,name.com,,
 14b23b11-b2ca-466e-b563-f936364f8952,sizes.management,available,14.99,,50,5,5,name.com,,
-14cce5bf-ff98-446b-9f83-e6b968b35a41,leaf.management,resell,,,82,33,4,Dynadot Inc,16/09/2025 17:00,16/09/2026 17:00
+14cce5bf-ff98-446b-9f83-e6b968b35a41,leaf.management,resell,,,82,32,4,Dynadot Inc,16/09/2025 17:00,16/09/2026 17:00
 1522f592-820c-4815-a47a-6255d2902c32,streamed.management,available,14.99,,73,9,8,name.com,,
 152a1b2b-915a-4ea4-b643-112eccbc76ad,Frenchtoast.management,available,34.98,,80,7,12,namecheap,,
 15307092-345f-4306-9265-74dc6cbbd03c,Scotchtape.management,available,34.98,,80,2,11,namecheap,,
@@ -601,7 +601,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 36be77f9-b1a7-4bcd-8333-e92350ddcb63,comeintoeffect.management,available,14.99,,70,0,16,name.com,,
 36c32391-bbc1-4234-8abc-c01112bc4abe,makeupkiss.management,available,14.99,,67,1,12,name.com,,
 36c52428-80ce-47f4-a257-373c9c0dbd2c,typewriters.management,available,14.99,,56,4,11,name.com,,
-36ea17d4-495e-45ec-98ac-a750a9663c8b,fund.management,resell,,,78,31,4,Porkbun LLC,04/12/2017 23:30,04/12/2026 23:30
+36ea17d4-495e-45ec-98ac-a750a9663c8b,fund.management,resell,,,78,30,4,Porkbun LLC,04/12/2017 23:30,04/12/2026 23:30
 36f2296c-306f-4dfb-ac4b-bfd235dd4af0,masterofceremonies.management,available,14.99,,60,2,20,name.com,,
 36f9beb9-0ff9-477a-bb70-939bfa406d8a,lightupon.management,available,14.99,,72,2,10,name.com,,
 375b876f-dc7e-4b6e-bfda-1ecab32a7ad6,replies.management,available,14.99,,54,7,7,name.com,,
