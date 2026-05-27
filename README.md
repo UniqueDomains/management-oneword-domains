@@ -76,11 +76,11 @@ print(df.head())
 | leaf.management         | resell    | —         | —             | 82             | 32     | 4      | Dynadot Inc |
 | letsgo.management       | available | $14.99    | —             | 57             | 31     | 7      | name.com    |
 | fund.management         | resell    | —         | —             | 78             | 30     | 4      | Porkbun LLC |
-| inspiration.management  | available | $14.99    | —             | 88             | 30     | 11     | name.com    |
-| clinic.management       | resell    | —         | —             | 70             | 20     | 6      | Porkbun LLC |
 | heroes.management       | available | $14.99    | —             | 68             | 29     | 6      | name.com    |
+| clinic.management       | resell    | —         | —             | 70             | 20     | 6      | Porkbun LLC |
 | dogs.management         | available | $14.99    | —             | 76             | 28     | 4      | name.com    |
 | commonground.management | available | $14.99    | —             | 74             | 28     | 13     | name.com    |
+| inspiration.management  | available | $14.99    | —             | 88             | 27     | 11     | name.com    |
 | backyard.management     | available | $14.99    | —             | 80             | 27     | 9      | name.com    |
 | Trex.management         | available | $34.98    | —             | 80             | 24     | 5      | namecheap   |
 | pops.management         | available | $14.99    | —             | 74             | 24     | 4      | name.com    |
