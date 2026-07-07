@@ -14,10 +14,10 @@ Daily-updated public extract of available and resale .management one-word domain
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **11,709 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 11,709 domains · **Median ask:** $17.22 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 11,709 domains · **Median ask:** $17.02 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-26  
-**Canonical page:** `https://unique.domains/domains/tld/management`  
+**Last updated:** 2026-07-07
+**Canonical page:** `https://unique.domains/domains/tld/management`
 **Best for:** founders, investors, studios
 
 ---
@@ -43,13 +43,13 @@ This repository is the public extract for Unique Domains' .MANAGEMENT one-word d
 
 ### Files
 
-- `management.csv` — public CSV extract (1,000 rows)
-- `management.json` — public JSON extract (1,000 rows)
-- `DATA_DICTIONARY.md` — field definitions for the exported files
-- `METHODOLOGY.md` — scope, refresh policy, and caveats
-- `CHANGELOG.md` — latest snapshot metadata
-- `CITATION.cff` — machine-readable dataset citation metadata
-- `LICENSE` — terms for the public extract
+- `management.csv`, public CSV extract (1,000 rows)
+- `management.json`, public JSON extract (1,000 rows)
+- `DATA_DICTIONARY.md`, field definitions for the exported files
+- `METHODOLOGY.md`, scope, refresh policy, and caveats
+- `CHANGELOG.md`, latest snapshot metadata
+- `CITATION.cff`, machine-readable dataset citation metadata
+- `LICENSE`, terms for the public extract
 
 ## 🧭 Quick start
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain                  | status    | ask_price | renewal_price | attractiveness | demand | length | registrar   |
-| ----------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------- |
-| whynot.management       | available | $14.99    | —             | 74             | 44     | 7      | name.com    |
-| key.management          | resell    | —         | —             | 80             | 42     | 3      | Porkbun LLC |
-| restaurants.management  | premium   | $82.50    | —             | 57             | 21     | 11     | name.com    |
-| stories.management      | available | $14.99    | —             | 58             | 36     | 7      | name.com    |
-| service.management      | resell    | —         | —             | 70             | 41     | 7      | Porkbun LLC |
-| holdings.management     | premium   | $82.50    | —             | 52             | 14     | 8      | name.com    |
-| Cats.management         | available | $34.98    | —             | 59             | 33     | 4      | namecheap   |
-| ideas.management        | resell    | —         | —             | 62             | 36     | 5      | Porkbun LLC |
-| trends.management       | available | $14.99    | —             | 60             | 32     | 6      | name.com    |
-| leaf.management         | resell    | —         | —             | 82             | 32     | 4      | Dynadot Inc |
-| letsgo.management       | available | $14.99    | —             | 57             | 31     | 7      | name.com    |
-| fund.management         | resell    | —         | —             | 78             | 30     | 4      | Porkbun LLC |
-| heroes.management       | available | $14.99    | —             | 68             | 29     | 6      | name.com    |
-| clinic.management       | resell    | —         | —             | 70             | 20     | 6      | Porkbun LLC |
-| dogs.management         | available | $14.99    | —             | 76             | 28     | 4      | name.com    |
-| commonground.management | available | $14.99    | —             | 74             | 28     | 13     | name.com    |
-| inspiration.management  | available | $14.99    | —             | 88             | 27     | 11     | name.com    |
-| backyard.management     | available | $14.99    | —             | 80             | 27     | 9      | name.com    |
-| Trex.management         | available | $34.98    | —             | 80             | 24     | 5      | namecheap   |
-| pops.management         | available | $14.99    | —             | 74             | 24     | 4      | name.com    |
+| domain             | status    | ask_price | renewal_price | attractiveness | demand | length | registrar         |
+| ------------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------------- |
+| room.management    | resell    | —         | —             | high           | low    | 4      | Porkbun LLC       |
+| here.management    | available | —         | —             | high           | low    | 4      | —                 |
+| nothing.management | available | $14.99    | —             | high           | low    | 7      | name.com          |
+| fancy.management   | available | $14.99    | —             | high           | low    | 5      | name.com          |
+| ADS.management     | available | $14.99    | —             | high           | medium | 3      | name.com          |
+| art.management     | resell    | —         | —             | high           | medium | 3      | Porkbun LLC       |
+| dog.management     | premium   | $123.75   | —             | high           | low    | 3      | name.com          |
+| Ann.management     | available | $14.99    | —             | high           | low    | 3      | name.com          |
+| core.management    | resell    | —         | —             | medium         | medium | 4      | Sav.com, LLC      |
+| pot.management     | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo          |
+| bag.management     | available | $14.99    | —             | high           | low    | 3      | name.com          |
+| deep.management    | resell    | —         | —             | high           | medium | 4      | Sav.com, LLC - 49 |
+| code.management    | premium   | $500      | —             | high           | medium | 4      | name.com          |
+| boy.management     | available | $14.99    | —             | medium         | low    | 3      | name.com          |
+| lead.management    | resell    | —         | —             | high           | low    | 4      | Dynadot Inc       |
+| zone.management    | premium   | $118.80   | $118.80       | high           | low    | 4      | namesilo          |
+| bud.management     | available | $14.99    | —             | high           | low    | 3      | name.com          |
+| actor.management   | premium   | $118.80   | $118.80       | high           | low    | 5      | namesilo          |
+| but.management     | available | $14.99    | —             | high           | low    | 3      | name.com          |
+| candy.management   | resell    | —         | —             | high           | low    | 5      | Dynadot Inc       |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -105,27 +105,27 @@ If this sample already feels useful, Unique Domains is where the exact search be
 
 ## 🧱 Field summary
 
-- `domain` — Fully qualified domain name.
-- `status` — Current acquisition state for the domain in the public extract.
-- `purchase_price` — Visible purchase price when available.
-- `renewal_price` — Visible renewal price when available.
-- `attractiveness` — Composite naming score used as a decision-support signal.
-- `demand` — Relative buyer-pressure score when available.
-- `length` — Character count without the TLD.
-- `registrar` — Registrar name when known.
-- `created_at` — Creation timestamp when known.
-- `expires_at` — Expiry timestamp when known.
+- `domain`, Fully qualified domain name.
+- `status`, Current acquisition state for the domain in the public extract.
+- `purchase_price`, Visible purchase price when available.
+- `renewal_price`, Visible renewal price when available.
+- `attractiveness`, Public composite naming band used as a decision-support signal.
+- `demand`, Public buyer-pressure band when available.
+- `length`, Character count without the TLD.
+- `registrar`, Registrar name when known.
+- `created_at`, Creation timestamp when known.
+- `expires_at`, Expiry timestamp when known.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This selection is entirely made up of one-word .management domains. That makes the decision less about extension choice and more about word quality. Strong picks tend to be clear, easy to say, and closely tied to a management use case, team, or service. Names like careful.management and match.management read differently from abstract options like xiv.management or emotional terms like crying.management. When comparing these domains, check whether the word adds authority, feels commercially usable, and stays memorable when paired with .management. The median ask is 17.2, so price discipline matters less than choosing a word that can carry the niche extension without confusion.
+This selection includes 11,709 one-word domain names on the .management extension, with a median asking price near $17. Words like half, out, okay, content, and beauty appear as single-word bases, often forming clear, ownable names such as content.management or beauty.management. For investors, the low median ask suggests accessible entry pricing across a large pool of options. For founders, single-word .management names offer a direct way to signal a management-focused service without long compound phrases.
 
-- All names in this selection use the .management TLD
-- 11,706 one-word domains in a single niche extension
-- Median ask is 17.2 across this set
-- Favor clear words that fit management use cases
+- 11,709 one-word .management domain names in this list
+- Median asking price near $17 across the selection
+- Examples: content.management, beauty.management, half.management
+- Updated daily to reflect current pricing
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .MANAGEMENT One-Word Domains*. Version 2026-05-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .MANAGEMENT One-Word Domains*. Version 2026-07-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
