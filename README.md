@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .management one-word domain
 
 **Public extract:** 1,000 rows · **Live catalog:** 16,571 domains · **Median ask:** $16.25 · **High-demand under $2,500:** 1
 
-**Last updated:** 2026-08-19
+**Last updated:** 2026-08-20
 **Canonical page:** `https://unique.domains/domains/tld/management`
 **Best for:** founders, investors, studios
 
@@ -67,7 +67,6 @@ print(df.head())
 | room.management    | resell    | —         | —             | high           | low    | 4      | Porkbun LLC       |
 | here.management    | available | —         | —             | high           | low    | 4      | —                 |
 | nothing.management | available | $14.99    | —             | high           | low    | 7      | name.com          |
-| fancy.management   | available | $14.99    | —             | high           | low    | 5      | name.com          |
 | ADS.management     | available | $14.99    | —             | high           | medium | 3      | name.com          |
 | art.management     | resell    | —         | —             | high           | medium | 3      | Porkbun LLC       |
 | dog.management     | premium   | $123.75   | —             | high           | low    | 3      | name.com          |
@@ -84,6 +83,7 @@ print(df.head())
 | actor.management   | premium   | $118.80   | $118.80       | high           | low    | 5      | namesilo          |
 | bud.management     | available | $14.99    | —             | high           | low    | 3      | name.com          |
 | candy.management   | resell    | —         | —             | high           | low    | 5      | Dynadot Inc       |
+| Codes.management   | premium   | $118.80   | $118.80       | medium         | low    | 5      | namesilo          |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .MANAGEMENT One-Word Domains*. Version 2026-08-19. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .MANAGEMENT One-Word Domains*. Version 2026-08-20. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
