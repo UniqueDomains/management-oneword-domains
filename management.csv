@@ -521,7 +521,7 @@ db16adbd-de4d-456f-a4ed-ae6ffd0d995b,asymptotic.management,available,14.99,33.99
 28f2e11b-54ef-4c02-a51e-17829860c2df,foodbank.management,available,14.99,,high,low,9,name.com,,
 a40d4dcb-1f7f-4544-a265-603acf13cae3,such.management,available,14.99,,high,low,4,name.com,,
 d7b92927-785d-42e1-ae7b-5063a9ba7c94,letterperfect.management,available,14.99,,high,low,14,name.com,,
-619f680f-8d2f-4f37-903e-89997e8e5721,bag.management,available,14.99,,high,low,3,name.com,,
+619f680f-8d2f-4f37-903e-89997e8e5721,bag.management,available,14.99,33.99,medium,low,3,name.com,,
 b4391d4e-5c72-4e0b-a4c2-a03785221365,luncheon.management,available,14.99,,high,low,8,name.com,,
 5ab9aa40-bb74-43f3-a03b-79474e989400,landing.management,available,14.99,,high,low,7,name.com,,
 786484e5-2a62-401b-a75d-bf44019d94b2,lowpriced.management,available,14.99,33.99,low,low,10,name.com,,
@@ -972,7 +972,7 @@ f6c66a85-e0e6-4429-8123-c643430b0c14,retired.management,available,14.99,,high,lo
 3c4823a4-318c-4b83-b515-2217abc56f02,useful.management,available,14.99,,high,low,6,name.com,,
 28a401fd-3462-4acf-ac59-593f9b76f4e4,deep.management,resell,,,high,medium,4,"Sav.com, LLC - 49",27/12/2025 15:15,27/12/2026 15:15
 6dde4cab-5807-46ef-8eb1-dfccd742a5d0,ricepaper.management,available,14.99,,medium,low,10,name.com,,
-3b1f0970-f9b6-4d2f-862f-1e60236f530d,drink.management,available,14.99,,high,low,5,name.com,,
+3b1f0970-f9b6-4d2f-862f-1e60236f530d,drink.management,available,14.99,33.99,medium,low,5,name.com,,
 0cb7c369-4a9f-4790-90da-8c1c189b08c5,lead.management,resell,,,high,low,4,Dynadot Inc,31/05/2019 10:12,31/05/2026 10:12
 f003734c-34cb-440e-a9d7-c3d1bad38852,veer.management,available,14.99,,high,low,4,name.com,,
 a70fc23f-748d-4bb0-96a4-fb95f8486550,unhappy.management,available,14.99,33.99,high,low,7,name.com,,
