@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .management one-word domain
 
 **Public extract:** 1,000 rows · **Live catalog:** 26,350 domains · **Median ask:** $19.28 · **High-demand under $2,500:** 1
 
-**Last updated:** 2026-09-18
+**Last updated:** 2026-09-20
 **Canonical page:** `https://unique.domains/domains/tld/management`
 **Best for:** founders, investors, studios
 
@@ -64,10 +64,10 @@ print(df.head())
 
 | domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar         |
 | ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------------- |
-| ADS.management   | available | $14.99    | —             | high           | medium | 3      | name.com          |
-| art.management   | resell    | —         | —             | high           | medium | 3      | Porkbun LLC       |
+| ads.management   | available | $14.99    | —             | high           | medium | 3      | name.com          |
+| art.management   | resell    | —         | —             | medium         | low    | 3      | Sav.com, LLC      |
 | dog.management   | premium   | $123.75   | —             | high           | low    | 3      | name.com          |
-| Ann.management   | available | $14.99    | —             | high           | low    | 3      | name.com          |
+| ann.management   | available | $14.99    | —             | high           | low    | 3      | name.com          |
 | core.management  | resell    | —         | —             | medium         | medium | 4      | Sav.com, LLC      |
 | pot.management   | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo          |
 | aug.management   | available | $14.99    | $33.99        | low            | low    | 3      | name.com          |
@@ -81,7 +81,7 @@ print(df.head())
 | actor.management | premium   | $118.80   | $118.80       | high           | low    | 5      | namesilo          |
 | bud.management   | available | $14.99    | —             | high           | low    | 3      | name.com          |
 | chain.management | resell    | —         | —             | medium         | low    | 5      | Dynadot Inc       |
-| Codes.management | premium   | $118.80   | $118.80       | medium         | low    | 5      | namesilo          |
+| codes.management | premium   | $118.80   | $118.80       | medium         | low    | 5      | namesilo          |
 | but.management   | available | $14.99    | —             | high           | low    | 3      | name.com          |
 | money.management | resell    | —         | —             | high           | medium | 5      | 1API GmbH         |
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .MANAGEMENT One-Word Domains*. Version 2026-09-18. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .MANAGEMENT One-Word Domains*. Version 2026-09-20. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
