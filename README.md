@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .management one-word domain
 
 **Public extract:** 1,000 rows · **Live catalog:** 30,511 domains · **Median ask:** $20.74 · **High-demand under $2,500:** 1
 
-**Last updated:** 2026-09-23
+**Last updated:** 2026-09-24
 **Canonical page:** `https://unique.domains/domains/tld/management`
 **Best for:** founders, investors, studios
 
@@ -76,7 +76,7 @@ print(df.head())
 | pot.management     | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo          |
 | aug.management     | available | $14.99    | $33.99        | low            | low    | 3      | name.com          |
 | deep.management    | resell    | —         | —             | low            | low    | 4      | Sav.com, LLC - 49 |
-| code.management    | premium   | $500      | —             | high           | medium | 4      | name.com          |
+| code.management    | premium   | $512      | $512          | low            | low    | 4      | namesilo          |
 | bag.management     | available | $25.99    | $25.99        | medium         | low    | 3      | namesilo          |
 | lead.management    | resell    | —         | —             | high           | low    | 4      | Dynadot Inc       |
 | zone.management    | premium   | $118.80   | $118.80       | high           | low    | 4      | namesilo          |
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .MANAGEMENT One-Word Domains*. Version 2026-09-23. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .MANAGEMENT One-Word Domains*. Version 2026-09-24. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
