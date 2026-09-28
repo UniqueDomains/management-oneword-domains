@@ -2,7 +2,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 3cd57bde-a1f6-458e-9fd7-96474c195070,elvish.management,available,14.99,33.99,medium,low,6,name.com,,,16/08/2026 03:43
 e373daf2-6fe9-4ce1-b946-12b1facea655,physician.management,available,25.99,25.99,high,low,9,namesilo,,,24/09/2026 23:20
 91c61094-1627-4418-babb-63e7d7e8d4a1,cow.management,available,25.99,25.99,high,low,3,namesilo,,,27/09/2026 06:58
-c18a092e-f738-424e-a6e7-484f45c2f22e,gaza.management,available,25.99,25.99,high,low,4,namesilo,,,25/09/2026 06:23
+c18a092e-f738-424e-a6e7-484f45c2f22e,gaza.management,available,25.99,25.99,medium,low,4,namesilo,,,25/09/2026 06:23
 363a57e4-d3ee-4ba7-9b83-6e361ffd348b,arawak.management,available,14.99,33.99,medium,low,6,name.com,,,06/08/2026 12:38
 154639cc-4f14-419a-9b49-0bc62cf61c52,accented.management,available,14.99,33.99,medium,low,8,name.com,,,
 cb2573d0-fe87-4a69-953b-6faf0685efd7,undeclared.management,available,25.99,25.99,medium,low,10,namesilo,,,12/09/2026 07:06
@@ -20,12 +20,11 @@ eaa17b1b-0bf1-4341-a2d2-1efab51f2837,jorge.management,available,25.99,25.99,high
 cd8945fd-3321-4c96-a287-e6cb3790a6cf,repulsive.management,available,14.99,33.99,medium,low,9,name.com,,,
 e4c917dc-8d07-4c43-bfd4-d9b306290355,tonic.management,available,25.99,25.99,high,low,5,namesilo,,,19/09/2026 16:01
 51afbcf9-5d76-4ba1-8a5e-b7ae9ce1e379,vacuous.management,available,14.99,33.99,low,low,7,name.com,,,07/08/2026 02:52
-f67a6834-cc34-48bf-a612-4830186e2843,positron.management,available,26.98,34.98,high,low,8,namecheap,,,19/09/2026 14:21
+f67a6834-cc34-48bf-a612-4830186e2843,positron.management,available,26.98,34.98,medium,low,8,namecheap,,,19/09/2026 14:21
 9a094645-98c3-4c81-ad33-9fd0b3f27939,pennies.management,available,14.99,,medium,low,7,name.com,,,
 2cf5b976-99fe-4b32-9ae2-5065f365e24c,weighty.management,available,14.99,33.99,medium,low,7,name.com,,,12/08/2026 15:37
 c6cd8c21-5041-423d-b029-e1ad7106cb6e,rational.management,available,14.99,33.99,high,low,8,name.com,,,22/08/2026 07:50
 326248b5-e4d0-4e3a-a1f0-6967be4e128d,arse.management,available,14.99,33.99,medium,low,4,name.com,,,09/08/2026 10:35
-86a01914-4744-42cb-a220-c5487c276fe3,roar.management,available,14.99,,high,low,4,name.com,,,
 138e6344-310b-4a2d-977a-88f8fd979995,hussy.management,available,25.99,25.99,medium,low,5,namesilo,,,17/09/2026 10:20
 52ba09d3-26bb-485d-a07f-d2751faec6e2,lethal.management,available,14.99,33.99,high,low,6,name.com,,,23/08/2026 00:26
 dae55ef8-b37b-4290-9cb1-eff50ce4d18e,alien.management,available,14.99,33.99,high,medium,5,name.com,,,
@@ -35,7 +34,7 @@ c63d614c-f608-4ae7-bbe5-f2e33c168832,widespread.management,available,26.98,34.98
 ad42e3a1-1356-4cc1-b96a-fafe67eb7226,anchorage.management,available,26.98,34.98,high,low,9,namecheap,,,19/09/2026 03:43
 de417add-6e99-47c9-a2da-7ebd7e434d49,katz.management,available,25.99,25.99,high,low,4,namesilo,,,25/09/2026 15:43
 131f9fff-a6f2-4f7e-aeb3-cd3bc70ae82e,pantheist.management,available,25.99,25.99,medium,low,9,namesilo,,,05/09/2026 01:06
-4f2fcad3-4df6-4e92-9219-ec250a589642,thee.management,available,14.99,,high,low,4,name.com,,,
+4f2fcad3-4df6-4e92-9219-ec250a589642,thee.management,available,14.99,,medium,low,4,name.com,,,
 9c75edbb-19cb-452c-9a8c-02d64810f13c,permit.management,available,25.99,25.99,high,low,6,namesilo,,,24/09/2026 18:39
 bc730dd7-282a-4b38-9f03-9de2ccdad84d,rescue.management,available,26.98,34.98,high,low,6,namecheap,,,25/09/2026 13:29
 b78f07ca-eb66-47bf-acfb-d24950018440,mcmahon.management,available,25.99,25.99,high,low,7,namesilo,,,25/09/2026 21:50
@@ -45,7 +44,7 @@ f8f1badc-360a-4b2c-974c-d2aeab83a0b7,zone.management,premium,118.8,118.8,high,lo
 a92d5705-42af-4eef-9605-7c58df5c6761,watt.management,available,14.99,,high,low,4,name.com,,,
 30de3664-4ec2-4f90-bb64-734de48a08eb,darn.management,available,14.99,33.99,high,low,4,name.com,,,13/08/2026 16:10
 6dc08255-487c-4a11-8165-342769db7d1f,stateless.management,available,14.99,33.99,medium,low,9,name.com,,,21/08/2026 11:01
-2fb66baf-348c-4166-8ae0-d9b2a3339fdf,propranolol.management,available,25.99,25.99,high,low,11,namesilo,,,20/09/2026 00:29
+2fb66baf-348c-4166-8ae0-d9b2a3339fdf,propranolol.management,available,25.99,25.99,medium,low,11,namesilo,,,20/09/2026 00:29
 25c3ddf0-bd8f-4c6a-9db7-dae459389b6e,utter.management,available,14.99,,high,low,5,name.com,,,
 67a1a981-9145-479d-8475-e90a3dd14112,barograph.management,available,25.99,25.99,medium,low,9,namesilo,,,22/09/2026 06:59
 f7ed16d5-a52b-4098-81ac-aa6821683a9f,greenhouse.management,available,14.99,33.99,high,low,10,name.com,,,20/08/2026 19:51
@@ -53,6 +52,7 @@ f7ed16d5-a52b-4098-81ac-aa6821683a9f,greenhouse.management,available,14.99,33.99
 c3e630fd-b5f3-4001-b48c-b2d9a4daec40,romp.management,available,26.98,34.98,high,low,4,namecheap,,,09/09/2026 19:26
 a9e12944-2405-4e9c-ad3c-ff30a749572d,shipment.management,available,26.98,34.98,high,low,8,namecheap,,,24/09/2026 12:59
 2f812b44-a80d-4c98-9103-d69470eb593f,ombu.management,available,25.99,25.99,medium,low,4,namesilo,,,23/09/2026 05:53
+7b29cd68-9663-45fb-875e-316edeba1930,lara.management,available,20.9,20.9,high,low,4,spaceship,,,27/09/2026 19:35
 3a806e95-b9fe-4cdd-82a7-9ae03f64d7f2,ignoble.management,available,14.99,33.99,medium,low,7,name.com,,,21/08/2026 18:23
 fb43bdbe-cbbf-4fe0-b6ed-5ec0d5b0d5dd,hourlong.management,available,14.99,33.99,medium,low,8,name.com,,,21/08/2026 14:22
 a438e0bd-45c6-4020-a0c6-dffdf539df53,programmes.management,available,25.99,25.99,medium,low,10,namesilo,,,20/09/2026 10:20
@@ -94,7 +94,7 @@ c710cb2e-a9f6-44e6-ac29-245a337255e1,unitary.management,available,25.99,25.99,hi
 df91240b-7765-4e0e-9ac0-ee5ee934f52b,erose.management,available,14.99,33.99,medium,low,5,name.com,,,17/08/2026 12:30
 ff8ece08-fbc4-4c76-8e65-60f247c40dd9,laid.management,available,25.99,25.99,high,low,4,namesilo,,,25/09/2026 13:04
 bd62f3d3-ec75-4661-813c-3d1fed72cd37,shocked.management,available,14.99,33.99,high,low,7,name.com,,,
-5cbafe51-d9a8-49cf-9246-fedb965e3e43,cubitus.management,available,26.98,34.98,high,low,7,namecheap,,,20/09/2026 11:25
+5cbafe51-d9a8-49cf-9246-fedb965e3e43,cubitus.management,available,26.98,34.98,medium,low,7,namecheap,,,20/09/2026 11:25
 4e0cd0c8-70d9-48ae-a103-a272a8e6ac2b,winless.management,available,25.99,25.99,medium,low,7,namesilo,,,13/09/2026 12:35
 486f339b-ee9f-47b9-8eb0-5d81d84649e9,gruntle.management,available,14.99,33.99,medium,low,7,name.com,,,18/08/2026 22:14
 e06b0499-d94b-49e8-9ff9-f7da45b6b1b0,institution.management,available,25.99,25.99,high,low,11,namesilo,,,27/09/2026 08:25
@@ -104,10 +104,10 @@ e06b0499-d94b-49e8-9ff9-f7da45b6b1b0,institution.management,available,25.99,25.9
 13829c20-7671-427a-98f3-da5af93b1b3d,bacchante.management,available,26.98,34.98,medium,low,9,namecheap,,,21/09/2026 13:59
 cfbf36c4-0eaf-4bce-944f-4aae111e59fc,doorbell.management,available,25.99,25.99,high,low,8,namesilo,,,24/09/2026 11:23
 91e3f121-2e3f-4107-8af1-d29b6aef154a,laden.management,available,14.99,33.99,medium,low,5,name.com,,,22/08/2026 18:30
-0a720246-52c4-4abf-a2ff-07dc6e27751f,arid.management,available,14.99,33.99,high,low,4,name.com,,,06/08/2026 18:58
+0a720246-52c4-4abf-a2ff-07dc6e27751f,arid.management,available,14.99,33.99,medium,low,4,name.com,,,06/08/2026 18:58
 cbd17465-dcd2-4a28-b6d2-7b158256ab52,filmy.management,available,14.99,33.99,high,low,5,name.com,,,12/08/2026 14:28
 c0b3636b-9127-488d-b4e6-895d60b9d3df,disjoint.management,available,14.99,33.99,medium,low,8,name.com,,,14/08/2026 11:09
-2ca46c50-3b80-49be-9534-4af0a7892842,twee.management,available,14.99,33.99,high,low,4,name.com,,,13/08/2026 15:49
+2ca46c50-3b80-49be-9534-4af0a7892842,twee.management,available,14.99,33.99,medium,low,4,name.com,,,13/08/2026 15:49
 b7d566d2-cbe4-4eca-987a-8b1d02e86e73,commonsense.management,available,14.99,,high,low,12,name.com,,,
 88737b82-babd-4fc0-8c52-53ede4c7cbc6,poky.management,available,14.99,33.99,medium,low,4,name.com,,,14/08/2026 07:34
 b74682e2-54cf-4352-b13f-dd6163dd748a,outlawed.management,available,14.99,33.99,medium,low,8,name.com,,,21/08/2026 19:52
@@ -128,7 +128,7 @@ fe364f9b-1fff-46b7-97d7-4422fd2cb979,worm.management,available,14.99,,high,low,4
 8f2551b0-71a7-483f-9c7b-8e920ae7f792,crossing.management,available,25.99,25.99,high,low,8,namesilo,,,27/09/2026 03:30
 211b9a38-5a71-4a23-aff5-944db13c9a11,contain.management,available,26.98,34.98,high,low,7,namecheap,,,24/09/2026 20:22
 8144d877-6446-4fb2-a548-644797a8db94,linear.management,available,14.99,33.99,high,low,6,name.com,,,
-60bfa316-dc23-4422-b018-fc24f38c8122,lesion.management,available,25.99,25.99,high,low,6,namesilo,,,13/09/2026 13:28
+60bfa316-dc23-4422-b018-fc24f38c8122,lesion.management,available,25.99,25.99,medium,low,6,namesilo,,,13/09/2026 13:28
 929c8aac-1c6b-49e4-8b49-c90d71f81f32,launched.management,available,25.99,25.99,high,low,8,namesilo,,,18/09/2026 13:03
 94b1b8b5-25d3-4494-a103-93fef5b677cf,unjust.management,available,14.99,33.99,medium,low,6,name.com,,,22/08/2026 03:49
 ce618c3d-e505-4234-b0aa-6aa9adbc9952,accusing.management,available,14.99,33.99,medium,low,8,name.com,,,
@@ -139,15 +139,16 @@ e7e5c1b0-6f1d-4d2d-853e-299cf4f36ff1,saying.management,available,25.99,25.99,hig
 650ccba5-63d9-4f48-87b4-e63b7fced54f,pastorale.management,available,25.99,25.99,medium,low,9,namesilo,,,08/09/2026 10:10
 1194aaca-15c7-456b-8707-29d748f27b9e,swash.management,available,14.99,33.99,medium,low,5,name.com,,,11/08/2026 01:05
 ba8f2ac2-4652-4042-ab37-4be1f578e004,embarrassing.management,available,25.99,25.99,high,low,12,namesilo,,,27/09/2026 06:37
-566b9280-712f-4f56-ba70-b54b3a7da96a,stump.management,available,25.99,25.99,high,low,5,namesilo,,,18/09/2026 17:18
+566b9280-712f-4f56-ba70-b54b3a7da96a,stump.management,available,25.99,25.99,medium,low,5,namesilo,,,18/09/2026 17:18
 d7f595aa-afcf-4399-bcb7-5a8440083619,obtain.management,available,14.99,,high,low,6,name.com,,,
 b923d9df-f1dc-4415-a720-30e14ed77133,unsuitable.management,available,14.99,33.99,medium,low,10,name.com,,,22/08/2026 00:19
+d79188e6-6292-495e-8df2-d1c31137d536,spectacular.management,available,25.99,25.99,high,low,11,namesilo,,,27/09/2026 17:02
 a092e11f-57f7-45e1-bf73-81ac87fa49b6,monacan.management,available,14.99,33.99,medium,low,7,name.com,,,25/08/2026 04:01
 dee5ff18-44f3-4f6c-afe7-4fe87b4fdc40,skills.management,resell,,,high,medium,6,"GoDaddy.com, LLC",19/03/2014 16:00,19/03/2027 16:00,26/09/2026 09:03
 0a18fde5-3c57-48f1-aa39-0ef9a74f27d3,savior.management,available,25.99,25.99,high,low,6,namesilo,,,24/09/2026 14:49
 099220e6-abdd-46d1-b3fe-13f4b0e0c557,annelid.management,available,14.99,33.99,medium,low,7,name.com,,,
 1b0761fb-1223-4f46-a56c-ab43499e980d,clarifying.management,available,14.99,33.99,high,low,10,name.com,,,12/08/2026 09:37
-91e87125-ef31-48f2-9e08-824827d5eceb,afflicted.management,available,14.99,33.99,high,low,9,name.com,,,
+91e87125-ef31-48f2-9e08-824827d5eceb,afflicted.management,available,14.99,33.99,medium,low,9,name.com,,,
 255fddec-07d3-4277-ac52-9f871e799312,plantar.management,available,26.98,34.98,medium,low,7,namecheap,,,08/09/2026 20:50
 1d31de4c-d9d4-4c3f-830a-bf6dcbc96732,fissile.management,available,14.99,33.99,medium,low,7,name.com,,,18/08/2026 05:34
 1194af66-6b6b-454c-a807-a80e8c051cd1,robustly.management,available,25.99,25.99,medium,low,8,namesilo,,,15/09/2026 23:57
@@ -156,7 +157,7 @@ f6c437b2-3124-4859-8f55-c1fb13b0734f,autodidact.management,available,26.98,34.98
 825bebd0-bba4-4f04-a367-79eed492ef0d,graphical.management,available,14.99,33.99,high,low,9,name.com,,,20/08/2026 18:11
 d15b7573-4014-4a1a-ba61-c9f952edac22,sebastian.management,available,25.99,25.99,high,low,9,namesilo,,,25/09/2026 15:12
 c84025fa-12be-431c-88de-8e5f86b9cab3,rarified.management,available,14.99,33.99,medium,low,8,name.com,,,17/08/2026 15:46
-9663da3a-8312-4d35-b2e4-f58e1d0f33c6,informer.management,available,25.99,25.99,high,low,8,namesilo,,,23/09/2026 11:26
+9663da3a-8312-4d35-b2e4-f58e1d0f33c6,informer.management,available,25.99,25.99,medium,low,8,namesilo,,,23/09/2026 11:26
 b2bd50b5-3ca9-4dce-9a71-0dedfb31037c,cuba.management,available,,,high,high,4,,,,
 de043553-91ad-49b0-9e68-675a97c8b036,jonathan.management,available,25.99,25.99,high,low,8,namesilo,,,25/09/2026 08:03
 a2f1befe-4716-4875-928c-6ce091a824d7,cimarron.management,available,25.99,25.99,high,low,8,namesilo,,,23/09/2026 15:12
@@ -164,7 +165,7 @@ a2f1befe-4716-4875-928c-6ce091a824d7,cimarron.management,available,25.99,25.99,h
 5aef63b6-31d9-4905-b9ae-6ff0c2bdc5a7,backband.management,available,25.99,25.99,medium,low,8,namesilo,,,21/09/2026 14:57
 fbce1579-b16b-420d-b7b1-7e13d4691556,manually.management,available,25.99,25.99,medium,low,8,namesilo,,,15/09/2026 13:27
 a7a6aed7-8ed8-4d32-a8d7-7015b7d63350,crackpot.management,available,25.99,25.99,medium,low,8,namesilo,,,10/09/2026 00:10
-674f53aa-7793-41ee-b5fa-90fa0656d2e1,ashy.management,available,14.99,33.99,high,low,4,name.com,,,07/08/2026 02:04
+674f53aa-7793-41ee-b5fa-90fa0656d2e1,ashy.management,available,14.99,33.99,medium,low,4,name.com,,,07/08/2026 02:04
 ac35108d-1c19-45ea-833c-3042b8b0b13e,formulated.management,available,14.99,33.99,high,low,10,name.com,,,18/08/2026 12:22
 6bc3692f-80c8-49e9-9811-ea21d579c1f3,jumbo.management,available,14.99,33.99,high,low,5,name.com,,,16/08/2026 03:34
 dc16f9be-c962-4e23-9b52-17b9dae6e678,rustproof.management,available,26.98,34.98,high,low,9,namecheap,,,09/09/2026 20:21
@@ -183,10 +184,10 @@ ac95a181-8471-4741-8f68-b600e4b96d03,constantine.management,available,25.99,25.9
 a9ad1276-d79e-4068-8b38-1cf385d86c02,claus.management,available,25.99,25.99,medium,low,5,namesilo,,,27/09/2026 02:28
 d8278f31-c485-4ae4-974a-e2829dc84db3,wingless.management,available,14.99,33.99,medium,low,8,name.com,,,13/09/2026 12:31
 244c5a80-eacd-4831-ab2c-c4f13472535c,uncommonly.management,available,25.99,25.99,medium,low,10,namesilo,,,16/09/2026 09:49
-a5b7ae97-3f5c-4436-a98e-acde44cc1c98,biotite.management,available,26.98,34.98,high,low,7,namecheap,,,23/09/2026 19:13
-30048a93-2cb7-4b18-935d-c2d7ff45cb99,barrymore.management,available,25.99,25.99,high,low,9,namesilo,,,22/09/2026 08:52
+a5b7ae97-3f5c-4436-a98e-acde44cc1c98,biotite.management,available,26.98,34.98,medium,low,7,namecheap,,,23/09/2026 19:13
+30048a93-2cb7-4b18-935d-c2d7ff45cb99,barrymore.management,available,25.99,25.99,medium,low,9,namesilo,,,22/09/2026 08:52
 27f8bf3b-9ea4-4ddf-878c-119ca853efab,godlike.management,available,14.99,33.99,high,low,7,name.com,,,20/08/2026 16:06
-7ded4fce-ad11-4670-a204-2a8e3c141041,alcott.management,available,14.99,33.99,high,low,6,name.com,,,18/09/2026 04:10
+7ded4fce-ad11-4670-a204-2a8e3c141041,alcott.management,available,14.99,33.99,medium,low,6,name.com,,,18/09/2026 04:10
 a3aba628-8a50-470d-9269-d7201b3f7d96,venomed.management,available,25.99,25.99,medium,low,7,namesilo,,,13/09/2026 02:06
 d66c6572-708d-44d2-be45-627dbe3ca0de,owlish.management,available,25.99,25.99,medium,low,6,namesilo,,,04/09/2026 22:14
 d75679ef-5149-49c9-84af-ae4d3cbb518c,slowed.management,available,25.99,25.99,medium,low,6,namesilo,,,20/09/2026 15:42
@@ -201,7 +202,7 @@ ca995eb4-5f7b-4c05-9551-fdb1797bb5e4,else.management,available,14.99,,high,low,4
 a26d4f3a-58b7-4365-8b42-85904866fba6,fungible.management,available,14.99,33.99,medium,low,8,name.com,,,18/08/2026 18:32
 1dd35bf0-bfca-482d-9761-f09925b901c5,heliacal.management,available,14.99,33.99,medium,low,8,name.com,,,21/08/2026 06:23
 d97a5bff-ab90-448a-a304-276e40d2da5e,aerodrome.management,available,25.99,25.99,high,low,9,namesilo,,,17/09/2026 12:58
-57ba840a-6ad6-4a06-bfda-ab11ffae8607,deary.management,available,14.99,33.99,high,low,5,name.com,,,13/08/2026 18:21
+57ba840a-6ad6-4a06-bfda-ab11ffae8607,deary.management,available,14.99,33.99,medium,low,5,name.com,,,13/08/2026 18:21
 b3cc05a0-efd0-4483-8a45-3d25a2227537,amanda.management,available,25.99,25.99,high,low,6,namesilo,,,25/09/2026 13:54
 37d01040-f422-4d1e-9698-7ab3201c5571,martial.management,available,14.99,33.99,high,low,7,name.com,,,24/08/2026 16:36
 d29e4251-e290-4df7-981a-1d8c8e8694c6,apologize.management,available,14.99,,high,low,9,name.com,,,
@@ -228,6 +229,7 @@ d7fd961a-5ddb-4b21-aaae-2a8afcc6a71f,intersection.management,available,14.99,,hi
 80568df5-bc1d-45b0-9e4d-46abb1688937,plantal.management,available,26.98,34.98,medium,low,7,namecheap,,,08/09/2026 20:48
 fc22aa14-bfe4-4644-9811-2635476a1e2f,sycamore.management,available,26.98,34.98,high,low,8,namecheap,,,16/09/2026 23:36
 cecd6769-89d7-449c-aa11-63ad996e7996,fumed.management,available,14.99,33.99,medium,low,5,name.com,,,18/08/2026 18:20
+ee06a4d1-c6f1-4895-9b46-4bb6755707ba,ligands.management,available,26.98,34.98,medium,low,7,namecheap,,,28/09/2026 00:44
 dda5e94c-e53c-43d4-af84-9976b3f59b4d,pacemaker.management,available,25.99,25.99,high,low,9,namesilo,,,20/09/2026 11:42
 94505326-1a79-4c88-9f44-bf655a96a89f,weeping.management,available,14.99,33.99,high,low,7,name.com,,,12/08/2026 00:52
 517c42ea-e7fd-40ce-a868-e6290aa014ea,inhale.management,available,14.99,,high,low,6,name.com,,,
@@ -237,10 +239,10 @@ dda5e94c-e53c-43d4-af84-9976b3f59b4d,pacemaker.management,available,25.99,25.99,
 9f03e185-c74a-4650-9a0a-35b189ee3cd0,vedic.management,available,25.99,25.99,medium,low,5,namesilo,,,13/09/2026 01:37
 82347629-3106-4454-bc9d-079582a9ca4d,attacker.management,available,25.99,25.99,high,low,8,namesilo,,,17/09/2026 17:41
 d3dcdd80-9b2c-4066-b115-f3044cefe70d,tires.management,available,25.99,25.99,medium,low,5,namesilo,,,27/09/2026 10:07
-f207d2c5-d264-48d3-80b6-d34cc78c8069,airedale.management,available,25.99,25.99,high,low,8,namesilo,,,17/09/2026 23:08
+f207d2c5-d264-48d3-80b6-d34cc78c8069,airedale.management,available,25.99,25.99,medium,low,8,namesilo,,,17/09/2026 23:08
 130a30c8-0204-42f0-89f3-7eeb424ac071,contiguity.management,available,26.98,34.98,medium,low,10,namecheap,,,17/09/2026 08:24
 d6ea55b5-0fae-4050-b1f4-a8123edde7d9,motherlike.management,available,14.99,33.99,medium,low,10,name.com,,,25/08/2026 07:04
-5c6ecc3f-4ec6-45d3-ab69-a0ac5e723b39,thoroughly.management,available,25.99,25.99,high,low,10,namesilo,,,14/09/2026 17:01
+5c6ecc3f-4ec6-45d3-ab69-a0ac5e723b39,thoroughly.management,available,25.99,25.99,medium,low,10,namesilo,,,14/09/2026 17:01
 f4c167b8-d4d3-4d39-a1aa-74fa1ec0bcfe,fucksome.management,available,14.99,,low,low,8,name.com,,,
 4789d42c-1d07-4ff9-906a-7683c1d430d2,puerile.management,available,25.99,25.99,medium,low,7,namesilo,,,09/09/2026 05:30
 1eb2862b-c74a-4282-8392-2de4447cb621,synoptic.management,available,14.99,33.99,high,low,8,name.com,,,11/09/2026 06:33
@@ -274,7 +276,7 @@ afe664e1-1e16-4f0a-ae37-f316c4d219e9,biologic.management,available,14.99,33.99,h
 b7fbea47-4cc8-46e2-88d8-4dacfa8d0215,pronghorn.management,available,14.99,33.99,medium,low,9,name.com,,,18/09/2026 19:07
 ed6b7018-0bdd-428d-ab38-4ede42e2e852,bloodstream.management,available,14.99,,high,low,11,name.com,,,
 7db0c8e4-e813-4e4b-8b15-e9f278f3a77a,abnaki.management,available,14.99,33.99,medium,low,6,name.com,,,
-10662d0f-b0ed-468f-9f75-64b1aed57adc,demise.management,available,14.99,33.99,high,low,6,name.com,,,14/08/2026 21:56
+10662d0f-b0ed-468f-9f75-64b1aed57adc,demise.management,available,14.99,33.99,medium,low,6,name.com,,,14/08/2026 21:56
 8cd0241c-6443-4fc6-8b1f-8ec24ad67c4d,inwardly.management,available,25.99,25.99,medium,low,8,namesilo,,,15/09/2026 09:18
 eaf437ff-bbea-49ea-bf9e-711b58b09942,illume.management,available,14.99,33.99,high,low,6,name.com,,,23/08/2026 02:41
 59d607cc-a498-4cd7-b568-1be6bed00c9b,efficiency.management,resell,,,high,low,10,IONOS SE,20/01/2025 09:01,20/01/2027 09:01,26/09/2026 05:46
@@ -287,14 +289,14 @@ d7f0a6bb-d2bb-41d2-861c-5b50d024377d,tomboy.management,available,14.99,,high,low
 a9fc61fb-609d-4700-a234-4d4f78d445ef,server.management,resell,,,high,medium,6,Dynadot Inc,22/09/2026 17:01,22/09/2027 17:01,26/09/2026 08:56
 2d3e2f3a-39ae-4e16-af86-a0e744252e0b,immodest.management,available,14.99,33.99,medium,low,8,name.com,,,21/08/2026 21:09
 72370ff7-00a7-4073-af5a-1239540a8d22,unreported.management,available,26.98,34.98,medium,low,10,namecheap,,,12/09/2026 18:19
-bde1332c-c388-4625-aa60-bd5ef4be4714,cautionary.management,available,14.99,33.99,high,low,10,name.com,,,
+bde1332c-c388-4625-aa60-bd5ef4be4714,cautionary.management,available,14.99,33.99,medium,low,10,name.com,,,
 96c8d49a-bc39-4847-90d1-b1f403e445d6,abator.management,available,25.99,25.99,medium,low,6,namesilo,,,16/09/2026 14:13
 ddb831f6-aabc-4773-ab8b-3ff207e8863d,use.management,available,14.99,,high,low,3,name.com,,,
 62c6a566-b53e-4704-ba53-30c5bc82ad35,invariably.management,available,14.99,,medium,low,10,name.com,,,
-9d5a70eb-502b-4c0d-a0a2-0f75037da235,faceted.management,available,14.99,33.99,high,low,7,name.com,,,17/08/2026 20:24
+9d5a70eb-502b-4c0d-a0a2-0f75037da235,faceted.management,available,14.99,33.99,medium,low,7,name.com,,,17/08/2026 20:24
 3035b78d-7e69-45ef-bbc8-6b547f9857bf,rhenish.management,available,25.99,25.99,medium,low,7,namesilo,,,09/09/2026 16:29
 61be9162-c44f-454a-9168-4fe1309d9900,dashingly.management,available,25.99,25.99,medium,low,9,namesilo,,,14/09/2026 10:41
-4e7385ac-e5fb-49dd-9b15-8642790f046f,resounding.management,available,14.99,,high,low,10,name.com,,,
+4e7385ac-e5fb-49dd-9b15-8642790f046f,resounding.management,available,25.99,25.99,high,low,10,namesilo,,,27/09/2026 12:35
 d99a5a22-8a8b-40c7-abbc-5f3f96eb2e3e,azygos.management,available,14.99,33.99,medium,low,6,name.com,,,08/08/2026 03:32
 684ef4be-a105-414a-9497-fca0c2d15da6,slapdash.management,available,25.99,25.99,medium,low,8,namesilo,,,10/09/2026 09:57
 04225697-4a79-4f8f-9842-4acec01fa58a,introduction.management,available,14.99,,high,low,12,name.com,,,
@@ -304,9 +306,9 @@ b980ba13-ea83-4931-a3e4-c8f30a2fe2cd,mime.management,available,14.99,33.99,high,
 fa5eca84-8da3-45f2-be0f-7ad3debb6383,asio.management,available,25.99,25.99,medium,low,4,namesilo,,,20/09/2026 14:18
 47905a4a-dd3a-419a-a203-03f7a0d0b240,betise.management,available,25.99,25.99,medium,low,6,namesilo,,,23/09/2026 11:18
 a67c0824-c524-4aa6-9b11-a559af5dfc3d,sunhat.management,available,14.99,,high,low,6,name.com,,,
-ec962a58-06e1-4684-a2a7-3ef844f2450a,inshore.management,available,14.99,33.99,high,low,7,name.com,,,22/08/2026 06:53
+ec962a58-06e1-4684-a2a7-3ef844f2450a,inshore.management,available,14.99,33.99,medium,low,7,name.com,,,22/08/2026 06:53
 d6dba3e3-08e3-411a-a0ec-53255837c9e9,pacify.management,available,14.99,33.99,high,low,6,name.com,,,18/08/2026 22:00
-7e546416-6ed3-4898-8d92-a266f89cb9c3,disclosure.management,available,14.99,,high,low,10,name.com,,,
+7e546416-6ed3-4898-8d92-a266f89cb9c3,disclosure.management,available,25.99,25.99,high,low,10,namesilo,,,27/09/2026 13:47
 b9ce3a0d-c7f5-4584-a0f6-b681ef9661f9,seminal.management,available,14.99,33.99,high,low,7,name.com,,,18/08/2026 22:51
 cc2501da-129e-435b-a0b9-ea932e82c88c,teenaged.management,available,25.99,25.99,medium,low,8,namesilo,,,19/09/2026 04:34
 d87c7687-a41a-4843-8de6-dec9e60b213d,procedural.management,available,25.99,25.99,high,low,10,namesilo,,,09/09/2026 02:31
@@ -317,9 +319,9 @@ b342ccfa-acd9-43fc-ab76-c37c9934ce70,resilient.management,available,14.99,33.99,
 20205447-53b7-489b-ae91-318ba414c966,spangly.management,available,14.99,33.99,medium,low,7,name.com,,,18/08/2026 21:20
 30b019ee-b5f4-439e-a7bd-1dbd455dcb94,universally.management,available,14.99,,high,low,11,name.com,,,
 959932d6-49f9-44d2-b141-b7b99ed97ce6,molal.management,available,14.99,33.99,medium,low,5,name.com,,,25/08/2026 03:31
-8f89b4cc-c573-4d13-b248-1ab12c0c485f,alger.management,available,26.98,34.98,high,low,5,namecheap,,,18/09/2026 06:56
+8f89b4cc-c573-4d13-b248-1ab12c0c485f,alger.management,available,26.98,34.98,medium,low,5,namecheap,,,18/09/2026 06:56
 bf4f86de-8ba4-476d-9295-34ab9e258574,bertolucci.management,available,25.99,25.99,medium,low,10,namesilo,,,23/09/2026 09:50
-4dbc1e48-2ad4-4e7b-9187-96a205779457,localised.management,available,14.99,33.99,high,low,9,name.com,,,24/08/2026 08:47
+4dbc1e48-2ad4-4e7b-9187-96a205779457,localised.management,available,14.99,33.99,medium,low,9,name.com,,,24/08/2026 08:47
 18af8bb9-e1c8-4173-93c2-289597abe838,blabby.management,available,14.99,33.99,low,low,6,name.com,,,09/08/2026 21:03
 e498d0dd-22de-46cb-a7bf-fecf21710ce7,conformist.management,available,14.99,33.99,medium,low,10,name.com,,,12/08/2026 21:13
 014515a2-9c1d-473d-a7f9-a81e3db19a75,orphan.management,available,14.99,,high,low,6,name.com,,,
@@ -335,33 +337,34 @@ bc554066-1ed7-49dc-86e4-c64394ae0db3,mushy.management,available,14.99,33.99,medi
 c57b1bcc-b0c9-45a7-980a-d9e60ad62b59,securely.management,available,25.99,25.99,high,low,8,namesilo,,,16/09/2026 00:50
 63956d44-5c48-480b-96b2-948f2ff5fd9d,mat.management,available,14.99,33.99,high,low,3,name.com,,,08/09/2026 07:48
 9ebdfe4b-7c56-4c0d-8810-6cf93d575da3,friendless.management,available,14.99,33.99,medium,low,10,name.com,,,18/08/2026 15:33
-b58fd78f-8577-4328-afb6-e72026366bed,abkhaz.management,available,14.99,33.99,high,low,6,name.com,,,
-c0e318cc-0266-4425-beed-c92f06f24879,grin.management,available,14.99,,high,low,4,name.com,,,
+b58fd78f-8577-4328-afb6-e72026366bed,abkhaz.management,available,14.99,33.99,medium,low,6,name.com,,,
+c0e318cc-0266-4425-beed-c92f06f24879,grin.management,available,25.99,25.99,high,low,4,namesilo,,,27/09/2026 23:08
 f1e898cd-d759-4cc1-9a4c-f43ea32cd338,phoenix.management,resell,,,high,medium,7,"Sav.com, LLC - 20",30/04/2026 15:15,30/04/2027 15:15,26/09/2026 08:08
 4d1e7d07-b72a-43bd-9823-ad3328e3856a,footle.management,available,25.99,25.99,medium,low,6,namesilo,,,11/09/2026 08:27
 e7eca211-7d46-4f47-a029-92a7e4615e58,soph.management,available,25.99,25.99,medium,low,4,namesilo,,,10/09/2026 14:20
 57b7eb3b-e610-48db-8fd3-d6e23ca7075b,unlit.management,available,25.99,25.99,medium,low,5,namesilo,,,12/09/2026 13:03
-fe90f4d2-cdd9-4837-9618-976bcb245d58,peirce.management,available,25.99,25.99,high,low,6,namesilo,,,23/09/2026 08:23
+fe90f4d2-cdd9-4837-9618-976bcb245d58,peirce.management,available,25.99,25.99,medium,low,6,namesilo,,,23/09/2026 08:23
 fe794428-b6d2-418a-8ba2-57317852c2ee,weightless.management,available,25.99,25.99,high,low,10,namesilo,,,13/09/2026 10:09
 80515394-3924-48b1-a200-c61f0969dbf0,screecher.management,available,26.98,34.98,medium,low,9,namecheap,,,22/09/2026 17:04
 04eedcdd-7042-4fb2-8805-e608e6a08841,nowise.management,available,25.99,25.99,low,low,6,namesilo,,,15/09/2026 17:05
 1aa35372-c1b4-4fe9-b649-19518c9d5a89,potential.management,available,26.98,34.98,high,low,9,namecheap,,,27/09/2026 04:46
 9ac81b2b-001d-441e-a995-e70e80f49c55,absolutely.management,available,14.99,,high,low,10,name.com,,,
 a6c26ece-6cb8-4163-be54-4e23b31c5b44,flawlessly.management,available,14.99,33.99,high,low,10,name.com,,,12/08/2026 10:23
-6b43bc42-69d0-4974-b599-54996e0daace,deposits.management,available,14.99,,high,low,8,name.com,,,
+6b43bc42-69d0-4974-b599-54996e0daace,deposits.management,available,14.99,,medium,low,8,name.com,,,
 4e17c91f-da8c-4940-a1e1-3792c1ba2a71,buckeye.management,available,25.99,25.99,high,low,7,namesilo,,,17/09/2026 13:22
 4d337e41-cbde-4126-9987-a2f9e3c4c6a7,forensic.management,available,25.99,25.99,high,low,8,namesilo,,,08/09/2026 15:50
 f27e8dc8-633a-436b-9082-21b08b58a491,cretin.management,available,14.99,33.99,medium,low,6,name.com,,,21/08/2026 20:26
 ed6f205f-cb59-457e-8385-2e2740135247,disinfection.management,available,25.99,25.99,high,low,12,namesilo,,,17/09/2026 16:37
+96e74487-85e3-43b7-be1e-3431ef7fcc99,plasma.management,available,25.99,25.99,high,low,6,namesilo,,,28/09/2026 00:56
 a1252397-c9cc-4edd-908c-7052dee15deb,inherently.management,available,25.99,25.99,medium,low,10,namesilo,,,15/09/2026 08:20
 8df186fc-b5b3-4df8-a667-17a165f74896,goit.management,available,25.99,25.99,high,low,5,namesilo,,,17/09/2026 17:43
 4a578d35-08de-4810-9a8b-83227ce0927a,checkroom.management,available,25.99,25.99,medium,low,9,namesilo,,,24/09/2026 14:04
 4d2f8bbd-4783-435b-8e99-4b3d6e9d09a7,cary.management,available,25.99,25.99,high,low,4,namesilo,,,25/09/2026 12:59
 369c7822-0d1b-42c1-9f90-fc73b1a3b128,badgering.management,available,25.99,25.99,medium,low,9,namesilo,,,13/09/2026 13:19
-1970a73f-9993-4193-bc01-f51cf8738ac9,bather.management,available,26.98,34.98,high,low,6,namecheap,,,22/09/2026 13:31
+1970a73f-9993-4193-bc01-f51cf8738ac9,bather.management,available,26.98,34.98,medium,low,6,namecheap,,,22/09/2026 13:31
 f136fbfe-6cdb-437f-8cc8-8ae1939231e0,andira.management,available,25.99,25.99,medium,low,6,namesilo,,,19/09/2026 04:05
 13a16829-2e28-4ca7-a2d2-2850e1d712f5,conquer.management,available,14.99,,high,low,7,name.com,,,
-7c09c1ae-ae48-49a0-94a5-6f93212cb989,nestorian.management,available,25.99,25.99,high,low,9,namesilo,,,03/09/2026 15:50
+7c09c1ae-ae48-49a0-94a5-6f93212cb989,nestorian.management,available,25.99,25.99,medium,low,9,namesilo,,,03/09/2026 15:50
 5ee311c2-827b-4d47-8fa5-e889f7e35126,ferric.management,available,14.99,33.99,medium,low,6,name.com,,,18/08/2026 02:07
 de6c5318-fd28-4483-ab1c-9b8e3a54b069,aras.management,available,25.99,25.99,medium,low,4,namesilo,,,20/09/2026 00:22
 c3742fdc-c9a1-4226-93e6-8ce03762fdbf,genial.management,available,25.99,25.99,high,low,6,namesilo,,,21/09/2026 21:42
@@ -371,18 +374,20 @@ f15699f0-bd6f-47e6-99ff-94f84cafdc5c,undressed.management,available,25.99,25.99,
 75fd50db-8cb3-479f-8ae3-d90ae9f2c4c5,fevered.management,available,14.99,33.99,medium,low,7,name.com,,,18/08/2026 03:07
 747d3aa3-94c7-40de-a7fc-39069500135c,nasty.management,available,14.99,33.99,medium,low,5,name.com,,,13/08/2026 08:48
 e02168e7-12c6-445d-8617-e58484fb6acc,mighty.management,available,14.99,33.99,high,low,6,name.com,,,24/08/2026 22:43
+6aca1f8f-92fd-4280-8c74-a02e47eca1c9,puppet.management,available,20.9,20.9,high,low,6,spaceship,,,28/09/2026 02:20
 8f8dc1a0-6ada-4783-9e2f-da9a45947898,hobble.management,available,14.99,33.99,medium,low,6,name.com,,,23/08/2026 13:26
 1c276884-700e-4e24-bd0b-6bae7e787225,wrapped.management,available,14.99,33.99,high,low,7,name.com,,,
 d077f285-e8a8-45a5-855f-ccd28bc9f5f4,thready.management,available,14.99,33.99,medium,low,7,name.com,,,18/08/2026 04:08
 c53a59c0-f4f5-45ed-88b4-3c6fbe0d2dbd,helical.management,available,14.99,33.99,medium,low,7,name.com,,,12/08/2026 16:11
 7f5719eb-7daa-487c-a553-1809ef139459,katie.management,available,25.99,25.99,high,low,5,namesilo,,,25/09/2026 13:27
-d6651e00-3387-448c-b372-02e8a6941173,rightness.management,available,25.99,25.99,high,low,9,namesilo,,,19/09/2026 22:23
+d6651e00-3387-448c-b372-02e8a6941173,rightness.management,available,25.99,25.99,medium,low,9,namesilo,,,19/09/2026 22:23
 9e4db48d-1dc7-47c6-abe2-2d965bd6f606,epidemic.management,available,25.99,25.99,high,low,8,namesilo,,,24/09/2026 14:35
 25f6320f-3066-491d-accb-5c14e091d32b,suppliant.management,available,25.99,25.99,medium,low,9,namesilo,,,11/09/2026 02:30
 6e8f3512-25ec-411d-9a73-7d40ed4205fb,diminuendo.management,available,14.99,33.99,medium,low,10,name.com,,,13/08/2026 22:19
 23c54ff4-e009-4ae5-855e-c902a63198eb,unnoticed.management,available,25.99,25.99,medium,low,9,namesilo,,,12/09/2026 16:02
 0689e3b3-f3b8-43f6-840e-df21608f5d56,ropes.management,available,14.99,,medium,low,5,name.com,,,
 12ea7db2-13f4-41f5-9ade-339c70ee3304,downplay.management,available,26.98,34.98,high,low,8,namecheap,,,21/09/2026 15:36
+e67bb46d-be8b-4262-8f4f-0a7bc9f5c00b,perimeter.management,available,8.24,21.62,high,low,9,dynadot,,,28/09/2026 01:41
 513f84f4-15a6-419f-9fde-6ea65defb9e7,centroidal.management,available,14.99,33.99,medium,low,10,name.com,,,12/08/2026 00:18
 804a7fb9-ebaf-49a9-b04f-376d036c4ecb,draconian.management,available,14.99,33.99,medium,low,9,name.com,,,14/08/2026 18:10
 ebfd3b63-acfc-4f69-906c-86ef12a53437,gal.management,available,14.99,,high,low,3,name.com,,,
@@ -410,7 +415,7 @@ c9329347-5636-4018-b76e-868d32a54c38,blasting.management,available,14.99,33.99,h
 51d1eccb-4393-4dce-9785-2c555f87441f,ruddy.management,available,14.99,33.99,high,low,5,name.com,,,10/08/2026 14:59
 3dac962a-1971-416e-b169-43b204c4ac69,subsonic.management,available,25.99,25.99,medium,low,8,namesilo,,,11/09/2026 00:50
 8c5ccf40-61ba-4689-bbba-7c41e5b0d008,alignment.management,available,25.99,25.99,high,low,9,namesilo,,,18/09/2026 07:47
-f99ef340-e9a9-470d-884e-9b6ccb811858,crownless.management,available,14.99,33.99,high,low,9,name.com,,,13/08/2026 08:38
+f99ef340-e9a9-470d-884e-9b6ccb811858,crownless.management,available,14.99,33.99,medium,low,9,name.com,,,13/08/2026 08:38
 888b1b53-ff49-4d20-aa29-728e8998205b,pepsi.management,available,14.99,,high,low,5,name.com,,,
 782de386-f6f7-49ca-93f3-a7f895ecb227,nursery.management,available,26.98,34.98,high,low,7,namecheap,,,24/09/2026 23:01
 7fe9e46f-6166-4418-b4a8-30444b5f8d58,joyless.management,available,14.99,33.99,medium,low,7,name.com,,,22/08/2026 14:04
@@ -441,6 +446,7 @@ beee58f2-4371-4338-a451-79cb6797a3c4,thermionic.management,available,25.99,25.99
 5619ca4b-caae-4700-b76d-89ba164eff9b,autochthon.management,available,25.99,25.99,medium,low,10,namesilo,,,21/09/2026 06:02
 684fd276-7429-425f-86dd-5d373f89c15d,ribless.management,available,25.99,25.99,medium,low,7,namesilo,,,09/09/2026 17:15
 d1eada76-becc-44ce-bf20-f3793e7adce6,adolescent.management,available,26.98,34.98,high,low,10,namecheap,,,21/09/2026 19:03
+64ff18da-bb4e-4da8-bc66-7073b67d90f9,sleeve.management,available,25.99,25.99,high,low,6,namesilo,,,27/09/2026 15:53
 cfc5904c-80db-4e7d-a4e0-91b8779c1582,termination.management,available,25.99,25.99,high,low,11,namesilo,,,04/09/2026 07:49
 3b21bdba-cb44-4cc5-b9a5-c2eb8fcbcde7,grecian.management,available,14.99,33.99,high,low,7,name.com,,,20/08/2026 19:44
 1ed97db5-5108-46dc-bf32-843c5eb949b5,chilean.management,available,14.99,33.99,high,low,7,name.com,,,12/08/2026 05:15
@@ -452,7 +458,7 @@ cfc5904c-80db-4e7d-a4e0-91b8779c1582,termination.management,available,25.99,25.9
 45878b02-646d-4c94-90bd-0bcc288c7259,somewhat.management,available,25.99,25.99,high,low,8,namesilo,,,25/09/2026 12:06
 f9e7bc28-6142-46c3-962b-25e8d2f167ae,unlovely.management,available,25.99,25.99,medium,low,8,namesilo,,,12/09/2026 15:12
 544c80af-965c-47f2-a17b-7a7ac5454fd6,beaten.management,available,14.99,33.99,medium,low,6,name.com,,,09/08/2026 05:47
-e7383237-263e-4c09-9fe0-639d850d98a5,worst.management,available,14.99,,high,low,5,name.com,,,
+e7383237-263e-4c09-9fe0-639d850d98a5,worst.management,available,14.99,,medium,low,5,name.com,,,
 626f7e17-8866-4967-8d01-9d909a692554,mellowed.management,available,14.99,33.99,medium,low,8,name.com,,,24/08/2026 19:36
 56018ffc-389c-4ce1-a18c-37e4724e91a6,direction.management,available,14.99,,high,low,9,name.com,,,
 c74689f5-ce5d-4b1a-9d31-3bcc3439a6db,allomorph.management,available,25.99,25.99,medium,low,9,namesilo,,,18/09/2026 11:59
@@ -461,11 +467,12 @@ b1b28168-588f-4638-a090-c2f713a59b7f,copy.management,available,14.99,,high,low,4
 66b5c850-6502-4b18-b7ab-dfbd1f8e7772,arriviste.management,available,25.99,25.99,medium,low,9,namesilo,,,03/09/2026 22:17
 0b1850c5-ea75-4fef-92b3-9fdce0461c63,zealous.management,available,25.99,25.99,high,low,7,namesilo,,,13/09/2026 15:10
 843b1f0f-c598-48d3-9fc5-f40a95adbb55,basiliscus.management,available,25.99,25.99,medium,low,10,namesilo,,,22/09/2026 10:53
+bd8274df-172c-4bad-b9ee-795f4375ecf1,salzburg.management,available,8.24,21.62,high,low,8,dynadot,,,28/09/2026 03:02
 396b3ce7-5366-43d6-bda8-6ac28f4d968c,northwards.management,available,14.99,33.99,medium,low,10,name.com,,,03/09/2026 21:25
 1f982672-7e5a-43dd-aa21-951ac71adb0f,blackfriar.management,available,14.99,33.99,medium,low,10,name.com,,,14/08/2026 15:46
 bd9ddcf9-e7cd-42a4-9db0-e21652fa54e0,hesitation.management,available,25.99,25.99,high,low,10,namesilo,,,24/09/2026 16:28
 1b1dc87a-cb11-4b11-bd51-822e203d22ab,combined.management,available,14.99,33.99,high,low,8,name.com,,,12/08/2026 18:36
-b59ac84f-2268-485e-9cc6-8dc0f1aee5eb,litre.management,available,14.99,33.99,high,low,5,name.com,,,22/08/2026 17:09
+b59ac84f-2268-485e-9cc6-8dc0f1aee5eb,litre.management,available,14.99,33.99,medium,low,5,name.com,,,22/08/2026 17:09
 7172fb80-9f1a-4e23-8179-4e5f26ec0f51,afloat.management,available,14.99,,high,low,6,name.com,,,
 bc4668f7-88c7-4d93-85f7-b4923c847e1f,riming.management,available,25.99,25.99,medium,low,6,namesilo,,,09/09/2026 16:55
 c99d4ce0-69c7-4fd1-9298-1a3edb231786,automobile.management,available,14.99,,high,low,10,name.com,,,
@@ -475,7 +482,7 @@ ebca9a50-4972-403f-bd9e-bdf72bbd4f15,norther.management,available,14.99,33.99,me
 fecfe716-203c-47f8-a8d8-39a3dfcbae1c,longways.management,available,14.99,33.99,medium,low,8,name.com,,,22/08/2026 23:44
 a7d1886f-cb54-4afc-8e5c-209ad03caf89,eased.management,available,14.99,33.99,high,low,5,name.com,,,
 e6e7b6d9-2adc-425d-bb0f-9c946d08e913,agency.management,resell,,,high,medium,6,"Wild West Domains, LLC",16/03/2014 16:00,16/03/2027 16:00,26/09/2026 01:26
-a52dcae4-d959-404c-b9d8-0186fe70dce1,odorless.management,available,14.99,33.99,high,low,8,name.com,,,22/08/2026 06:02
+a52dcae4-d959-404c-b9d8-0186fe70dce1,odorless.management,available,14.99,33.99,medium,low,8,name.com,,,22/08/2026 06:02
 ec99e414-2644-45e0-a35f-8f25d71fcd62,salim.management,available,25.99,25.99,high,low,5,namesilo,,,19/09/2026 04:37
 58c33e45-72fa-42fc-b380-4abd006aeed0,cook.management,available,26.98,34.98,high,low,4,namecheap,,,27/09/2026 10:07
 455af732-de48-461e-a406-3a8338740bd8,deictic.management,available,14.99,33.99,medium,low,7,name.com,,,14/08/2026 00:12
@@ -497,6 +504,7 @@ d62e12fd-6598-44a2-8bcc-c0316ce5563c,auto.management,resell,,,high,medium,4,Edom
 759a1e1b-8d91-42d5-b59e-a27cf4ba1d6b,amiably.management,available,26.98,34.98,medium,low,7,namecheap,,,13/09/2026 17:50
 4256673d-869a-44a4-b56d-f2a6efd7a044,subsets.management,available,26.98,34.98,medium,low,7,namecheap,,,21/09/2026 01:05
 5d9b138b-c0d0-4e5d-9d73-f61c9ede5374,incidence.management,available,14.99,,high,low,9,name.com,,,
+fe4e9709-33ea-4691-b627-ad417b01e63a,coincidence.management,available,20.9,20.9,high,low,11,spaceship,,,27/09/2026 21:29
 31d35a35-7fde-4831-8226-b1af3da24587,palliative.management,available,14.99,33.99,high,low,10,name.com,,,
 29eea4c1-cce4-4451-8efc-a11e1f911f25,criterial.management,available,14.99,33.99,medium,low,9,name.com,,,13/08/2026 07:27
 c6697f94-c147-463d-9504-85bfb34c3702,grower.management,available,26.98,34.98,high,low,6,namecheap,,,17/09/2026 19:21
@@ -511,18 +519,18 @@ e6ad86b9-e6d5-497e-9a9e-6119a6934e3f,autotomic.management,available,14.99,33.99,
 63f408d7-2b25-4e04-94c1-46464394913b,underarm.management,available,25.99,25.99,medium,low,8,namesilo,,,12/09/2026 07:21
 4e00f737-495f-4504-a054-8440c8b2c0de,fop.management,available,14.99,33.99,medium,low,3,name.com,,,13/08/2026 17:09
 09bfd45d-b0a7-4a87-ac92-7f8dc1646fbc,astonished.management,available,25.99,25.99,high,low,10,namesilo,,,22/09/2026 03:35
-9a1b24b0-224b-4c7d-a1e6-f805a3b992b9,wallow.management,available,25.99,25.99,high,low,6,namesilo,,,23/09/2026 16:37
+9a1b24b0-224b-4c7d-a1e6-f805a3b992b9,wallow.management,available,25.99,25.99,medium,low,6,namesilo,,,23/09/2026 16:37
 46997b55-ace4-4d81-9e8e-8ec3af2ae2ac,underfoot.management,available,25.99,25.99,medium,low,9,namesilo,,,16/09/2026 09:56
 8285843b-4afd-498a-b4c6-8870308a724a,quilted.management,available,26.98,34.98,medium,low,7,namecheap,,,09/09/2026 08:58
 ba8554a2-b3ee-4dbe-91de-8cb893776cf1,imagined.management,available,25.99,25.99,high,low,8,namesilo,,,27/09/2026 09:43
 78c2711e-e508-4f2b-81b0-569dd6089e6f,abdias.management,available,25.99,25.99,medium,low,6,namesilo,,,16/09/2026 14:41
 b3f82c19-027f-4a71-9247-3544547d899a,arriving.management,available,14.99,,medium,low,8,name.com,,,
 8177a13b-47e5-43a2-9a2a-06d79a3f6764,appease.management,available,14.99,33.99,high,low,7,name.com,,,18/08/2026 22:08
-b04d1f04-c274-4bb2-a0d3-2dda0d5b56c3,humoring.management,available,25.99,25.99,high,low,8,namesilo,,,05/09/2026 00:31
+b04d1f04-c274-4bb2-a0d3-2dda0d5b56c3,humoring.management,available,25.99,25.99,medium,low,8,namesilo,,,05/09/2026 00:31
 d9a35929-c046-42d3-8e9b-82bf9869538a,aids.management,available,14.99,,high,low,4,name.com,,,
 435be77b-32d3-4233-bf4c-14d24cce194a,ionic.management,available,14.99,33.99,high,low,5,name.com,,,22/08/2026 09:29
 9df13ea3-8eba-4fba-8676-948bffa95038,bound.management,available,25.99,25.99,high,low,5,namesilo,,,22/09/2026 07:27
-72e1a752-daab-4e12-b80f-ad26bbe43763,georges.management,available,25.99,25.99,high,low,7,namesilo,,,25/09/2026 15:05
+72e1a752-daab-4e12-b80f-ad26bbe43763,georges.management,available,25.99,25.99,medium,low,7,namesilo,,,25/09/2026 15:05
 1c5d955b-3533-4bd1-bb95-6a5ecab353a9,adman.management,available,25.99,25.99,high,low,5,namesilo,,,17/09/2026 08:40
 d14640dc-2dde-4535-b7ef-3c1f2833d7f3,bishkek.management,available,25.99,25.99,medium,low,7,namesilo,,,23/09/2026 21:43
 23d78c48-5a09-4de3-b15a-4cae36d8a513,servo.management,available,25.99,25.99,high,low,5,namesilo,,,10/09/2026 04:57
@@ -536,7 +544,7 @@ a0ecfca8-a83a-4e05-b8f8-f82b67ad1ce9,feetfirst.management,available,26.98,34.98,
 38c0778c-11fc-4434-8f61-7d5317b2b404,calming.management,available,26.98,34.98,high,low,7,namecheap,,,19/09/2026 20:28
 9e6e69f8-b7cf-499f-9571-d1b4dd81ff85,disulfiram.management,available,25.99,25.99,medium,low,10,namesilo,,,19/09/2026 12:22
 dc7b7ed7-a40e-4c82-bbaf-e42fe1502c4b,prat.management,available,14.99,33.99,medium,low,4,name.com,,,09/08/2026 11:18
-68e3b3aa-697d-4b64-9ff4-1a030d7ffbfd,neither.management,available,25.99,25.99,high,low,7,namesilo,,,03/09/2026 15:18
+68e3b3aa-697d-4b64-9ff4-1a030d7ffbfd,neither.management,available,25.99,25.99,medium,low,7,namesilo,,,03/09/2026 15:18
 5b9f46a8-379e-4632-af9c-9f31d8061528,zenithal.management,available,25.99,25.99,medium,low,8,namesilo,,,13/09/2026 15:12
 488637a2-bb88-4441-9554-4740f779331f,tersely.management,available,25.99,25.99,medium,low,7,namesilo,,,16/09/2026 08:13
 b18edefc-1b56-467a-affa-10ecfafe9b57,palo.management,available,25.99,25.99,medium,low,4,namesilo,,,27/09/2026 01:51
@@ -544,7 +552,7 @@ b18edefc-1b56-467a-affa-10ecfafe9b57,palo.management,available,25.99,25.99,mediu
 107d0b29-32b6-4500-8d13-b1de96e22513,stall.management,available,20.9,20.9,high,low,5,spaceship,,,27/09/2026 12:14
 4f8f7642-db9e-40f0-8fb4-f0d0e1f31e16,abydos.management,available,25.99,25.99,medium,low,6,namesilo,,,16/09/2026 19:41
 42386cb2-01f8-4d1e-b1ce-bcdf038552bd,moi.management,available,14.99,,high,low,3,name.com,,,
-524f27a9-aff4-4be9-b733-714f84c58f68,sixtieth.management,available,14.99,33.99,high,low,8,name.com,,,
+524f27a9-aff4-4be9-b733-714f84c58f68,sixtieth.management,available,14.99,33.99,medium,low,8,name.com,,,
 dfce15bb-3f47-4b66-b129-59f4ac2ad152,anoa.management,available,25.99,25.99,medium,low,4,namesilo,,,19/09/2026 11:10
 68bbeae6-0439-4150-a91e-4e3e79b6784d,discoid.management,available,14.99,33.99,medium,low,7,name.com,,,14/08/2026 09:38
 d5119348-8723-4c26-9290-5d71d9f07003,argument.management,available,25.99,25.99,high,low,8,namesilo,,,20/09/2026 04:49
@@ -577,6 +585,7 @@ d2afe993-b287-43eb-a1d4-4469c863eadd,canonical.management,available,14.99,33.99,
 dd6d8940-dc8e-4914-b779-c0e64ee018bd,browbeat.management,available,14.99,33.99,medium,low,8,name.com,,,11/08/2026 08:53
 509ec158-c7db-4240-90f6-fb4039488550,erupt.management,available,14.99,,high,low,5,name.com,,,
 ee55c6fe-8f24-4e65-9449-e01193fcf11b,continent.management,available,14.99,33.99,high,low,9,name.com,,,11/08/2026 23:26
+597a1c65-4c11-4709-b118-84a17590a26e,shu.management,available,8.24,21.11,high,low,3,porkbun,,,27/09/2026 21:11
 27c4e8cf-0ae4-4dc2-9d91-09f471ec19e0,underlying.management,available,14.99,33.99,high,low,10,name.com,,,21/08/2026 22:41
 c9268232-0c7f-4968-a41e-75df13762637,monkshood.management,available,25.99,25.99,medium,low,9,namesilo,,,17/09/2026 02:11
 89fb2273-b6e1-44d6-9e38-176f7576efee,bedroom.management,available,25.99,25.99,high,low,7,namesilo,,,22/09/2026 23:08
@@ -586,16 +595,15 @@ c9268232-0c7f-4968-a41e-75df13762637,monkshood.management,available,25.99,25.99,
 c36a84ad-804f-44cc-ab9e-338344a72b66,doable.management,available,26.98,34.98,high,low,6,namecheap,,,21/09/2026 15:46
 5e36d5cb-0e6a-4984-a653-649d903f0a61,situated.management,available,26.98,34.98,high,low,8,namecheap,,,25/09/2026 14:16
 0d5f97cd-d4a7-43fa-a180-7416b55997b7,boycott.management,available,25.99,25.99,medium,low,7,namesilo,,,24/09/2026 07:48
-2e902a20-b981-4ba0-9988-395f3141017e,amazona.management,available,25.99,25.99,high,low,7,namesilo,,,18/09/2026 16:23
+2e902a20-b981-4ba0-9988-395f3141017e,amazona.management,available,25.99,25.99,medium,low,7,namesilo,,,18/09/2026 16:23
 99175b21-d44c-46af-ae80-3530fc6e3621,recently.management,available,14.99,,high,low,8,name.com,,,
 c96f4ddd-2300-4041-ab1f-fdcfc3392218,lotic.management,available,14.99,33.99,medium,low,5,name.com,,,24/08/2026 10:00
 04e5b6eb-be88-470e-af88-c9b305af3d72,threatening.management,available,14.99,,medium,low,11,name.com,,,
-d794ac68-d188-488a-97cd-ef5dbb1d7e68,aare.management,available,25.99,25.99,high,low,4,namesilo,,,16/09/2026 13:18
+d794ac68-d188-488a-97cd-ef5dbb1d7e68,aare.management,available,25.99,25.99,medium,low,4,namesilo,,,16/09/2026 13:18
 8865bba3-7502-4597-b140-e121ab481c06,erosive.management,available,14.99,33.99,medium,low,7,name.com,,,13/08/2026 02:09
 603bbfa2-8240-4051-bc18-71a4a2f383e4,string.management,available,25.99,25.99,high,low,6,namesilo,,,24/09/2026 07:38
 d9671d87-eb23-47ae-9873-78cdc63ef6bc,bespoken.management,available,14.99,33.99,medium,low,8,name.com,,,09/08/2026 17:31
-d8f28d21-8a45-4fc2-9643-8372511197bb,backhoe.management,available,25.99,25.99,high,low,7,namesilo,,,21/09/2026 15:37
-824b6d13-7d44-41c9-a91a-7b18833d8dc6,risen.management,available,14.99,,high,low,5,name.com,,,
+d8f28d21-8a45-4fc2-9643-8372511197bb,backhoe.management,available,25.99,25.99,medium,low,7,namesilo,,,21/09/2026 15:37
 4ff0e4f8-eca4-492d-9f80-56a7938e9334,squealer.management,available,25.99,25.99,medium,low,8,namesilo,,,23/09/2026 11:32
 f010f7cd-7a42-4c3e-957f-fc86c5ffb366,reputedly.management,available,25.99,25.99,medium,low,9,namesilo,,,15/09/2026 23:20
 8848b32e-92cb-4876-bf9c-829783b9911f,amniota.management,available,25.99,25.99,medium,low,7,namesilo,,,18/09/2026 22:27
@@ -608,20 +616,22 @@ dbabc647-0ea8-42d2-a6fd-455d6ea43cde,point.management,available,14.99,,high,low,
 24c6032d-e74f-4fd2-8e1e-1ddea903c79e,sexed.management,available,25.99,25.99,medium,low,5,namesilo,,,10/09/2026 05:13
 bec0b5f8-830f-4d06-8143-91770cdfc9e2,piping.management,available,25.99,25.99,medium,low,6,namesilo,,,10/09/2026 19:43
 f791a43f-b6d9-4546-a098-5fd4b7f735fa,dancers.management,available,25.99,25.99,high,low,7,namesilo,,,20/09/2026 05:50
-c4d50d4a-95ac-4121-a54e-4aaa169c40a0,clumsy.management,available,25.99,25.99,high,low,6,namesilo,,,23/09/2026 11:20
+c4d50d4a-95ac-4121-a54e-4aaa169c40a0,clumsy.management,available,25.99,25.99,medium,low,6,namesilo,,,23/09/2026 11:20
 04ec092d-f9e6-466a-a93b-0054f539bc97,protocols.management,available,25.99,25.99,medium,low,9,namesilo,,,19/09/2026 04:47
 fee2415e-d4fa-4f0a-b3f9-90d4756fe94e,solely.management,available,14.99,33.99,high,low,6,name.com,,,
 44454d5c-0dc7-4456-b799-158236306379,syncarpous.management,available,25.99,25.99,medium,low,10,namesilo,,,11/09/2026 06:11
+f8374334-3e7f-4421-852b-402c36fa7b42,goodness.management,available,43.99,43.99,high,low,8,godaddy,,,28/09/2026 02:02
 80e3fc67-e396-42c4-a85e-8e4845c6b83a,chocolate.management,available,25.99,25.99,high,low,9,namesilo,,,24/09/2026 03:16
 bd7ec977-caf6-4a9d-acba-76acf08a54a3,ghostlike.management,available,14.99,33.99,medium,low,9,name.com,,,06/08/2026 05:23
 a7f6efc9-b0b8-4baa-b3d0-6dc5fcaa98d8,valentine.management,available,25.99,25.99,high,low,9,namesilo,,,26/09/2026 00:29
 a5e4e6f1-606b-44ee-bf8a-2eab24d3c457,tabular.management,available,25.99,25.99,high,low,7,namesilo,,,11/09/2026 06:55
 faf12e61-ef19-4c85-99a4-6fb3f7519f90,disco.management,available,14.99,,high,low,5,name.com,,,
-d7dbc9da-6a2d-4c77-b10a-7e902036558f,bottles.management,available,25.99,25.99,high,low,7,namesilo,,,18/09/2026 04:05
+d7dbc9da-6a2d-4c77-b10a-7e902036558f,bottles.management,available,25.99,25.99,medium,low,7,namesilo,,,18/09/2026 04:05
 66e977fa-ce5f-4264-88c3-5390d6c15c73,sympathetic.management,available,14.99,,high,low,11,name.com,,,
 d1fabbdc-46dd-44e3-b21d-bccf2f823b53,avidly.management,available,25.99,25.99,medium,low,6,namesilo,,,13/09/2026 22:53
 f24977b0-327f-4c9b-b2cd-dcf792c45f55,scour.management,available,25.99,25.99,high,low,5,namesilo,,,10/09/2026 00:23
 a70c8cb4-009a-4410-8818-97a639a5d340,pettily.management,available,25.99,25.99,low,low,7,namesilo,,,15/09/2026 19:44
+50822b5a-1fdd-49a0-9543-5c09f5d4c768,earthquake.management,available,20.9,20.9,high,low,10,spaceship,,,27/09/2026 13:14
 572ae832-faad-4d3c-a76d-12456b2cd86f,artaxerxes.management,available,25.99,25.99,medium,low,10,namesilo,,,20/09/2026 10:06
 5d9f65c7-803a-4ec1-9744-2901d8103230,tumescent.management,available,14.99,33.99,medium,low,9,name.com,,,22/08/2026 08:52
 1c8a8a6a-36c8-4b5f-b6a0-13aab56da854,closer.management,available,14.99,,high,low,6,name.com,,,
@@ -663,6 +673,7 @@ a0c3d8d9-9af1-4bd5-8bfe-c60159c44af0,parve.management,available,25.99,25.99,medi
 42ba2064-fbdb-43c8-a9d8-088814b88d77,lividly.management,available,14.99,33.99,low,low,7,name.com,,,15/09/2026 12:36
 6b49f1f8-08c0-4e07-907d-872475e5480f,was.management,available,14.99,,medium,low,3,name.com,,,
 08c8a095-46af-4590-a322-49c7c021c452,feigned.management,available,14.99,33.99,medium,low,7,name.com,,,18/08/2026 00:43
+b82a9052-aaac-4e47-91c3-acacbca48707,realise.management,available,8.24,21.11,high,low,7,porkbun,,,27/09/2026 16:29
 6678eda3-94d7-40c5-b3d7-34b743df2a9b,favourite.management,available,14.99,33.99,high,low,9,name.com,,,13/08/2026 18:17
 80c6953e-47d2-44da-9822-afd7ea186819,virginal.management,available,14.99,33.99,high,low,8,name.com,,,13/09/2026 05:57
 41e27c57-79c6-4a06-bca8-508d650e2e16,ionised.management,available,14.99,33.99,medium,low,7,name.com,,,22/08/2026 09:33
@@ -679,6 +690,7 @@ d9d3b2c0-9fe3-4654-acd2-a7fed86afa13,eroding.management,available,25.99,25.99,me
 4110eb63-2705-4c13-9d70-03035f8bcc81,scheme.management,available,14.99,,high,low,6,name.com,,,
 e28acde7-e6f6-4aeb-9d30-8de0983cb635,antiquity.management,available,25.99,25.99,medium,low,9,namesilo,,,19/09/2026 03:50
 21a5809e-b673-4b15-af4c-969ac803ad94,devotedly.management,available,25.99,25.99,medium,low,9,namesilo,,,14/09/2026 12:28
+dc2d8129-eae7-4f41-98fc-eb4d8d9b5b04,lieutenant.management,available,20.2,20.2,high,low,10,cloudflare,,,28/09/2026 02:16
 766d1782-ecc8-4a55-b366-7c513954c66e,odorous.management,available,25.99,25.99,medium,low,7,namesilo,,,04/09/2026 00:54
 5160a4fd-2b67-4398-a4fb-0741c18dc847,fair.management,available,25.99,25.99,high,medium,4,namesilo,,,22/09/2026 23:43
 7e3595bb-1727-408e-89f3-1a9f0319eb91,dilatory.management,available,14.99,33.99,medium,low,8,name.com,,,14/08/2026 07:31
@@ -709,7 +721,7 @@ fa31c936-f015-4add-969a-fd3fda91d44b,disk.management,available,14.99,,high,low,4
 6fe593d0-536c-4e0f-b3d4-6fb3f7d4fba3,systematic.management,available,25.99,25.99,high,low,10,namesilo,,,11/09/2026 06:44
 003ec946-ec23-4192-8dd0-b0ec24ee6c5a,aldol.management,available,25.99,25.99,high,low,5,namesilo,,,18/09/2026 04:25
 c0f21964-20b5-43e2-825c-12b4c692d8b0,balletic.management,available,14.99,33.99,high,low,8,name.com,,,08/08/2026 10:26
-d4ea4919-e55c-4448-bcca-8cf9ad5a9fc7,afters.management,available,25.99,25.99,high,low,6,namesilo,,,17/09/2026 15:48
+d4ea4919-e55c-4448-bcca-8cf9ad5a9fc7,afters.management,available,25.99,25.99,medium,low,6,namesilo,,,17/09/2026 15:48
 120d0f66-d1b3-4feb-a335-c1fc5e61b7d3,anachronic.management,available,14.99,33.99,medium,low,10,name.com,,,
 bf6a2f55-d763-48a8-a4da-a066490ad923,relies.management,available,25.99,25.99,medium,low,6,namesilo,,,20/09/2026 06:27
 bc9779e9-e15f-4ee7-a3ba-af9e857b41a3,theatres.management,available,26.98,34.98,medium,low,8,namecheap,,,20/09/2026 19:41
@@ -749,10 +761,10 @@ d4071bcc-5f33-454a-b2bc-02b4e93198a2,peppery.management,available,25.99,25.99,me
 3d596845-eb8e-446f-b839-4799b1bb673f,reddish.management,available,25.99,25.99,high,low,7,namesilo,,,19/09/2026 03:49
 7458d255-87c1-403b-8614-70bc3c22bdaa,naughty.management,available,14.99,33.99,high,low,7,name.com,,,18/08/2026 20:00
 22df4d35-e2de-4770-b076-0d568d4b019a,childish.management,available,14.99,33.99,high,low,8,name.com,,,12/08/2026 05:02
-53e7f134-d202-4d8d-883f-4ab18254dc73,improvable.management,available,14.99,33.99,high,low,10,name.com,,,21/08/2026 23:14
+53e7f134-d202-4d8d-883f-4ab18254dc73,improvable.management,available,14.99,33.99,medium,low,10,name.com,,,21/08/2026 23:14
 5be1a9dc-ecc8-4a2a-94a0-57b09b97e86e,curse.management,available,25.99,25.99,high,low,5,namesilo,,,24/09/2026 04:27
 06f855b4-8c28-491a-8432-752ee62d9105,renunciant.management,available,25.99,25.99,medium,low,10,namesilo,,,09/09/2026 14:23
-424f66df-c55f-4cce-92e8-7d5e653d6437,balloonist.management,available,26.98,34.98,high,low,10,namecheap,,,21/09/2026 23:14
+424f66df-c55f-4cce-92e8-7d5e653d6437,balloonist.management,available,26.98,34.98,medium,low,10,namecheap,,,21/09/2026 23:14
 0d2af79d-36a8-45a3-9a6c-2a168aea9402,pleased.management,available,25.99,25.99,high,low,7,namesilo,,,27/09/2026 04:08
 aecd94a7-566e-4845-8ffa-f8a47dc0204b,wilted.management,available,14.99,33.99,medium,low,6,name.com,,,23/08/2026 13:24
 50e8076b-ea34-4bff-9f8e-546c117335e1,elderly.management,available,25.99,25.99,high,low,7,namesilo,,,21/09/2026 22:30
@@ -761,6 +773,7 @@ aecd94a7-566e-4845-8ffa-f8a47dc0204b,wilted.management,available,14.99,33.99,med
 1a08cf6a-e5b2-4ee1-ac62-e5634ddcb453,viciously.management,available,14.99,33.99,medium,low,9,name.com,,,14/09/2026 01:35
 40d43ef2-caa9-4413-9c11-378955a7df60,sybarite.management,available,25.99,25.99,medium,low,8,namesilo,,,13/09/2026 07:15
 7d62f244-bac2-4d7c-834d-2cae05935db5,preview.management,available,14.99,,high,low,7,name.com,,,
+965b23ec-2a03-4966-9714-a2e9fdb37c29,andover.management,available,25.99,25.99,medium,low,7,namesilo,,,27/09/2026 18:38
 affcd367-1818-4125-9346-5ab10078bb26,darius.management,available,25.99,25.99,high,low,6,namesilo,,,27/09/2026 07:28
 3cbc0997-122a-4fd2-bdeb-865060775715,disneyland.management,available,14.99,,high,low,10,name.com,,,
 4b2b46c0-972a-4312-a5f2-9430837c60ce,beirut.management,available,26.98,34.98,high,low,6,namecheap,,,22/09/2026 18:14
@@ -783,11 +796,13 @@ e950796c-fb6c-426e-92f7-47a332b4a143,temerity.management,available,25.99,25.99,m
 ccc487d5-f094-47c6-be49-42d9415c2ee4,luanda.management,available,26.98,34.98,medium,low,6,namecheap,,,19/09/2026 06:58
 00d9a88f-2b95-40fd-b6d3-1c1b32d34870,ambulation.management,available,26.98,34.98,medium,low,10,namecheap,,,18/09/2026 17:29
 6842dc13-d698-4a1e-91cb-6eb6d44f9e8a,pneumatic.management,available,25.99,25.99,high,low,9,namesilo,,,08/09/2026 22:06
+a56d6ae9-b517-4468-b1de-e843cdc42f65,frameworks.management,available,20.9,20.9,high,low,10,spaceship,,,28/09/2026 00:38
 c76f4e34-d18d-4a13-a185-7fd9559e2697,insightful.management,available,14.99,33.99,high,low,10,name.com,,,22/08/2026 07:06
 bf9fad99-239f-4346-951a-e5b1bc77b62f,pail.management,available,14.99,,high,low,4,name.com,,,
 1628c699-43bb-4995-b840-b7674be81edc,mexican.management,available,14.99,33.99,high,low,7,name.com,,,25/09/2026 20:01
 38c3f135-2112-4a35-ab1a-f709ccb2c3e9,maternally.management,available,14.99,33.99,medium,low,10,name.com,,,25/08/2026 07:10
 933fb678-1268-43dc-95f2-ed078d6f88f3,counting.management,available,25.99,25.99,high,low,8,namesilo,,,25/09/2026 04:26
+5a672938-bca2-40e9-93dd-80962a9b665a,willamette.management,available,20.2,20.2,medium,low,10,cloudflare,,,27/09/2026 16:20
 7a0bbbe9-49d9-4752-9919-7b6be8944df5,hookup.management,available,14.99,,high,low,7,name.com,,,
 e38a5bd2-0476-4059-be4c-8f4f37e58987,mangonel.management,available,26.98,34.98,medium,low,8,namecheap,,,20/09/2026 00:37
 008d9464-e9f6-43c4-b80a-0812022132c2,reflects.management,available,25.99,25.99,medium,low,8,namesilo,,,17/09/2026 15:27
@@ -815,7 +830,7 @@ e1242026-fa87-4e07-b5fe-1da5955143d8,dissemble.management,available,25.99,25.99,
 2a90f6f2-077a-4cf4-b90e-9a541e0ea055,lighten.management,available,14.99,,high,low,7,name.com,,,
 3706d63f-90c6-4d50-b7d4-1a89937d89ee,astrogator.management,available,25.99,25.99,medium,low,10,namesilo,,,20/09/2026 17:41
 a3ff912c-8689-4e05-846e-92586d2b2077,afternoon.management,available,14.99,,high,low,9,name.com,,,
-7195188c-743e-4af7-a915-dac5b4175e4e,dubious.management,available,14.99,33.99,high,low,7,name.com,,,14/08/2026 16:57
+7195188c-743e-4af7-a915-dac5b4175e4e,dubious.management,available,14.99,33.99,medium,low,7,name.com,,,14/08/2026 16:57
 1891cb83-8144-47de-9cf5-773c064d8af0,abstention.management,available,26.98,34.98,high,low,10,namecheap,,,16/09/2026 18:27
 1c4f1abf-d7b9-4241-bf94-8962c9939903,except.management,available,14.99,,high,low,6,name.com,,,
 6587b06b-e042-44b2-8c3b-e1e17086817e,lonely.management,available,14.99,,high,low,6,name.com,,,
@@ -833,7 +848,7 @@ ed2011f9-47b1-401f-a5af-865cbe226176,rabbinic.management,available,25.99,25.99,m
 f9f7e158-0cdc-496f-a1db-d827f7992829,bairn.management,available,26.98,34.98,medium,low,5,namecheap,,,21/09/2026 19:31
 9c5328cf-66d8-4779-b856-ed3ea7f00c3f,hurt.management,available,25.99,25.99,high,low,4,namesilo,,,25/09/2026 06:49
 20cbc383-be83-42ca-b3be-4c1e5055d01c,unresolved.management,available,14.99,33.99,medium,low,10,name.com,,,14/08/2026 12:57
-4acb9985-db19-476d-8925-f4bc4fae4de7,swerve.management,available,14.99,,high,low,6,name.com,,,
+4acb9985-db19-476d-8925-f4bc4fae4de7,swerve.management,available,20.2,20.2,high,low,6,cloudflare,,,27/09/2026 20:50
 f822ee6e-d480-4f20-bc43-e4b12f8f2a01,famously.management,available,25.99,25.99,high,low,8,namesilo,,,14/09/2026 16:46
 82c75c15-80a9-4964-911b-6c36c38ac0d3,baltic.management,available,14.99,33.99,high,low,6,name.com,,,08/08/2026 10:41
 9114115e-e418-4fa0-b54a-05099b06953d,clearance.management,available,25.99,25.99,high,low,9,namesilo,,,08/09/2026 08:11
@@ -847,12 +862,12 @@ f0b77d02-69fb-4850-8588-a4e9fe5a2f83,expire.management,available,14.99,,medium,l
 224f078f-6349-42bf-8fba-97767df2bcda,fogged.management,available,14.99,33.99,medium,low,6,name.com,,,18/08/2026 09:51
 4b45915b-1129-40c2-9413-b64378ac45c3,baldachin.management,available,26.98,34.98,medium,low,9,namecheap,,,21/09/2026 21:30
 e141a060-5396-4c18-8d3c-ff55581033df,addressed.management,available,14.99,33.99,high,low,9,name.com,,,
-bfafa264-342b-46c8-b256-2c4571bb27e5,ingrained.management,available,14.99,33.99,high,low,9,name.com,,,13/08/2026 22:49
+bfafa264-342b-46c8-b256-2c4571bb27e5,ingrained.management,available,14.99,33.99,medium,low,9,name.com,,,13/08/2026 22:49
 926825fa-420d-4e3b-89ad-de0aaa51c317,realised.management,available,25.99,25.99,high,low,8,namesilo,,,23/09/2026 17:33
 3000e7d4-b10a-43ab-9601-9be1a6d743e5,touch.management,available,14.99,,high,low,5,name.com,,,
 b1a26a99-252d-4162-bd6b-c0dc52c9599e,toll.management,available,,,high,medium,4,,,,
 16d60586-7080-49a5-92ce-1780260f2907,smarmy.management,available,14.99,33.99,medium,low,6,name.com,,,11/08/2026 11:46
-32972b78-b175-4a43-93dd-d9eaf28d7985,perinatal.management,available,25.99,25.99,high,low,9,namesilo,,,08/09/2026 17:07
+32972b78-b175-4a43-93dd-d9eaf28d7985,perinatal.management,available,25.99,25.99,medium,low,9,namesilo,,,08/09/2026 17:07
 c26fa417-d0c8-4819-a037-d6d693260f80,bandwagon.management,available,25.99,25.99,high,low,9,namesilo,,,22/09/2026 01:35
 85147342-f246-4b84-94c0-c3be2fd5b62f,wickedly.management,available,25.99,25.99,medium,low,8,namesilo,,,14/09/2026 16:40
 1c3ddf1d-05a9-4346-9591-f329feed4d09,baseboard.management,available,25.99,25.99,medium,low,9,namesilo,,,22/09/2026 10:08
@@ -875,8 +890,8 @@ da2e8175-d845-442f-b660-ca6c578939b7,tradition.management,available,14.99,,high,
 34f7ce40-7e1c-4a8f-8b60-ff20926ad93f,brooklyn.management,resell,,,high,low,8,"GoDaddy.com, LLC",14/12/2014 01:00,14/12/2026 01:00,26/09/2026 04:38
 342d2d06-0e43-4625-ad59-d11f7080f5bc,parker.management,available,26.98,34.98,high,low,6,namecheap,,,23/09/2026 20:21
 df27d1c0-d9a8-4a61-af0a-1590cf8a8970,overage.management,available,26.98,34.98,high,low,7,namecheap,,,04/09/2026 19:59
-40036c42-1a5a-453e-8857-664b85369e6b,anabolic.management,available,14.99,33.99,high,low,8,name.com,,,
-35618648-3c3e-4eb0-b063-79235bf0e3b5,costless.management,available,14.99,33.99,high,low,8,name.com,,,13/08/2026 03:12
+40036c42-1a5a-453e-8857-664b85369e6b,anabolic.management,available,14.99,33.99,medium,low,8,name.com,,,
+35618648-3c3e-4eb0-b063-79235bf0e3b5,costless.management,available,14.99,33.99,medium,low,8,name.com,,,13/08/2026 03:12
 ae546bb4-6dd2-4243-bcee-a883afc3b20f,headed.management,available,14.99,33.99,high,low,6,name.com,,,21/08/2026 01:51
 ff106d90-ae63-4521-8b87-5809686727b0,elliptical.management,available,14.99,33.99,high,low,10,name.com,,,15/08/2026 18:01
 3ccad22b-7fb7-4425-8e64-08362dc391de,hunchback.management,available,14.99,33.99,medium,low,9,name.com,,,13/08/2026 07:49
@@ -902,11 +917,12 @@ b65e855d-f7c5-49f5-86f0-2daec97fbb8a,streamers.management,available,25.99,25.99,
 67a70c58-67ea-44cd-9585-5d7275b004d8,resistible.management,available,25.99,25.99,medium,low,10,namesilo,,,09/09/2026 15:20
 6838b74f-e314-4cac-afb5-fc6422f5a6a0,saute.management,available,25.99,25.99,high,low,5,namesilo,,,09/09/2026 22:00
 4726a224-d33a-45f1-9be9-d3fd24f9325b,vendable.management,available,14.99,33.99,medium,low,8,name.com,,,24/08/2026 20:30
+6c564275-9b25-42ee-ad5a-90a20156976e,storing.management,available,25.99,25.99,high,low,7,namesilo,,,28/09/2026 02:45
 d4458d6e-5839-4bf2-912b-a31df6701628,multiplication.management,available,14.99,,medium,low,14,name.com,,,
-4c03ca29-74d2-48f2-82bd-f93f9a57bf7e,pillowcase.management,available,14.99,,high,low,11,name.com,,,
+4c03ca29-74d2-48f2-82bd-f93f9a57bf7e,pillowcase.management,available,14.99,,medium,low,11,name.com,,,
 6f0523c7-0031-4c6b-af9a-8945e4a6aa27,conspiracy.management,available,14.99,,high,low,10,name.com,,,
 928610cb-c9f7-4145-9621-ed2ec8eb81a2,agreeable.management,available,25.99,25.99,high,low,9,namesilo,,,21/09/2026 23:17
-9737c879-3b1f-42c7-bb6e-e32fd5d1eabc,mauritian.management,available,14.99,33.99,high,low,9,name.com,,,24/08/2026 17:35
+9737c879-3b1f-42c7-bb6e-e32fd5d1eabc,mauritian.management,available,14.99,33.99,medium,low,9,name.com,,,24/08/2026 17:35
 668d0bf7-635a-4730-95e4-6939bed6c78a,bowman.management,available,25.99,25.99,medium,low,6,namesilo,,,20/09/2026 01:56
 bd06fb03-5da3-4380-a2f4-f12ebb621375,insatiable.management,available,14.99,33.99,medium,low,10,name.com,,,22/08/2026 06:33
 68257e08-a116-4128-901b-efade8b11a54,celiac.management,available,14.99,33.99,medium,low,6,name.com,,,11/08/2026 23:23
@@ -915,7 +931,7 @@ ec684ef4-5238-4e9f-b885-a634a2f5941e,fleming.management,available,25.99,25.99,hi
 f37a6044-7a69-407a-878f-6da8d8274892,bethlehem.management,available,26.98,34.98,high,low,9,namecheap,,,22/09/2026 18:15
 00089f96-1738-42b1-9779-5f7695a35acb,peregrine.management,available,14.99,33.99,medium,low,9,name.com,,,25/08/2026 02:20
 83ddabe3-52bc-4343-b889-f1aa028cb372,sissy.management,available,14.99,33.99,medium,low,5,name.com,,,12/08/2026 08:45
-dba4db5c-d5a7-4b20-aa6c-2bacf719c424,ripping.management,available,25.99,25.99,high,low,7,namesilo,,,09/09/2026 13:59
+dba4db5c-d5a7-4b20-aa6c-2bacf719c424,ripping.management,available,25.99,25.99,medium,low,7,namesilo,,,09/09/2026 13:59
 7b8c9a91-bc12-4627-b3e2-0e14c6f2cad8,varicella.management,available,25.99,25.99,medium,low,9,namesilo,,,24/09/2026 14:29
 8b5d7ec9-d031-447f-aee2-1bd6a4b0f250,tied.management,available,14.99,33.99,high,low,4,name.com,,,22/08/2026 17:45
 ddc20ffd-c444-4ec6-8621-b23065755ba7,chair.management,available,26.98,34.98,high,low,5,namecheap,,,25/09/2026 21:14
@@ -931,7 +947,7 @@ e6851baf-f949-48d5-b417-e32895717dfa,angst.management,available,25.99,25.99,medi
 d223a469-048e-41b3-87c4-c57a55a18e0c,petroleum.management,available,14.99,33.99,high,low,9,name.com,,,13/08/2026 08:55
 167e3bb8-f72e-451d-836c-7dc949bc2120,signed.management,available,14.99,33.99,high,low,6,name.com,,,18/08/2026 22:58
 bcc06943-b50a-4992-9cab-94e32751af8d,inflated.management,available,14.99,33.99,medium,low,8,name.com,,,21/08/2026 08:47
-5c9cad50-ba53-411e-9c41-8177cd17cd77,cultivator.management,available,26.98,34.98,high,low,10,namecheap,,,17/09/2026 19:20
+5c9cad50-ba53-411e-9c41-8177cd17cd77,cultivator.management,available,26.98,34.98,medium,low,10,namecheap,,,17/09/2026 19:20
 55269f46-a71c-439a-b083-83ca0d4f90db,nonslip.management,available,25.99,25.99,medium,low,7,namesilo,,,03/09/2026 20:38
 8a315175-417f-468d-b7d3-164af7eb1379,brighten.management,available,14.99,,high,low,8,name.com,,,
 9df8255b-127d-4dbb-9f9f-b404470c8f5d,extension.management,available,14.99,,high,low,9,name.com,,,
@@ -978,24 +994,8 @@ fd19fd15-c7d2-4b70-80fd-eda35e216846,cholera.management,available,25.99,25.99,me
 9dc95eb1-0159-4e37-ad6e-6d570ca4cf85,policies.management,available,25.99,25.99,high,low,8,namesilo,,,04/09/2026 07:55
 046c3d30-bf92-472a-ae3d-ea4172746daf,given.management,available,26.98,34.98,high,low,5,namecheap,,,24/09/2026 22:16
 97dd990f-52df-4fbf-ad27-9abc91a5ac4c,granddaughter.management,available,14.99,,high,low,13,name.com,,,
-bddc1c59-6feb-4cb4-ac02-3a0588a11899,hanging.management,available,25.99,25.99,high,low,7,namesilo,,,25/09/2026 04:41
+bddc1c59-6feb-4cb4-ac02-3a0588a11899,hanging.management,available,25.99,25.99,medium,low,7,namesilo,,,25/09/2026 04:41
 9b0fc87f-677e-45a1-a489-5a17928a9b0a,striation.management,available,25.99,25.99,medium,low,9,namesilo,,,22/09/2026 01:19
 2a0cac50-3820-4274-a41d-64065d033c1f,haphazard.management,available,14.99,33.99,medium,low,9,name.com,,,20/08/2026 23:46
 57020d7f-85d0-4f32-8f76-fea824546bd3,delirium.management,available,26.98,34.98,high,low,8,namecheap,,,24/09/2026 21:40
 c95dd9b1-ac5d-49f7-9632-d086dbf5a130,evenhanded.management,available,14.99,33.99,high,low,10,name.com,,,17/08/2026 14:52
-a730d93b-829d-4233-b9a8-9b6b206b8132,manuel.management,available,25.99,25.99,high,low,6,namesilo,,,25/09/2026 15:00
-37ef3251-c338-44c4-95a6-bc9c190364f5,episodic.management,available,14.99,33.99,high,low,8,name.com,,,17/08/2026 11:11
-d59bc0ee-40d2-4388-989e-f96fa8582ea0,lawyer.management,available,14.99,,high,low,6,name.com,,,
-90adacc6-e8e1-4738-b6e8-a55b0b22a623,cliquish.management,available,14.99,33.99,medium,low,8,name.com,,,12/08/2026 11:17
-b59e02d7-513c-4860-92d3-b42e4bf1ac64,liquors.management,available,26.98,34.98,medium,low,7,namecheap,,,20/09/2026 06:24
-54f1122d-e5c0-4d23-85b7-b02e819ac40f,sestet.management,available,14.99,33.99,medium,low,6,name.com,,,
-58dd59e5-2a6d-4e1d-99e5-e27ae3a09325,pitahaya.management,available,25.99,25.99,medium,low,8,namesilo,,,16/09/2026 20:46
-56b367f9-3a6e-4e6c-aacc-9115207e22f9,sise.management,available,14.99,33.99,medium,low,4,name.com,,,
-465f7e75-0b96-49fc-9ba5-a4eff2a164ea,cartoon.management,available,25.99,25.99,high,low,7,namesilo,,,19/09/2026 08:59
-06a3aa84-0530-4f52-93c7-4143c05681bf,lossy.management,available,14.99,33.99,medium,low,5,name.com,,,24/08/2026 09:58
-480becef-b183-4733-9c42-596f6788390a,analogy.management,available,14.99,,high,low,7,name.com,,,
-2d9ee859-40c4-447e-ba04-d67ed58aab4c,partitioned.management,available,25.99,25.99,low,low,11,namesilo,,,18/09/2026 12:14
-91c5b8db-037f-48c7-9102-c4fedebb83bf,shotgun.management,available,25.99,25.99,high,low,7,namesilo,,,26/09/2026 00:14
-cf4a9c80-411e-4be8-9024-20bb646ef12d,derain.management,available,25.99,25.99,medium,low,6,namesilo,,,19/09/2026 04:09
-8884a3d6-2eca-40c9-848c-e5c610a366f7,cheater.management,available,25.99,25.99,medium,low,7,namesilo,,,23/09/2026 02:30
-531667b7-bd61-4edd-a374-8efac2850131,relief.management,available,26.98,34.98,high,low,6,namecheap,,,23/09/2026 07:06
